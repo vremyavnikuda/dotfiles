@@ -1,0 +1,10 @@
+openweathermap
+
+vremyavnikuda
+andrew.nevsky@yandex.ru
+J3pghFB2KSrD
+
+
+Create key
+api name:java_weather
+api key:af36f46b11f48fb7d97386baa838ab0e

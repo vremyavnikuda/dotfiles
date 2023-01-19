@@ -1,0 +1,29 @@
+METRICS_TOKEN
+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
+
+
+
+
+docker run --rm --env INPUT_TOKEN=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 --env INPUT_USER=vremyavnikuda --volume=/tmp:/renders ghcr.io/lowlighter/metrics:latest
+
+
+
+
+
+token fleet github
+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
+
+
+ACCESS TOKEN DESCRIPTION
+vscode
+ACCESS PERMISSIONS
+Read, Write, Delete
+To use the access token from your Docker CLI client:
+
+1. Run docker login -u vremayvnikuda
+	-pass:ASD837!7dsfk
+
+2. At the password prompt, enter the personal access token.
+
+dckr_pat_C-CT5Uzyli13SByJoK14Jv7NIgE
+
