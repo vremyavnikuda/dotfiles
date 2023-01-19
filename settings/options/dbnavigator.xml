@@ -1,0 +1,9 @@
+<application>
+  <component name="DBNavigator.Application.Settings">
+    <debug-logging database-access="false" database-resource="false" />
+    <database-lag enabled="false" connectivity="2000" querying="2000" fetching="500" />
+    <miscellaneous dialog-sizing-reset="false" bulk-actions-enabled="false" failsafe-logging-enabled="false" background-disposer-disabled="false" />
+    <developer-mode value="false" />
+    <show-plugin-conflict-dialog value="false" />
+  </component>
+</application>

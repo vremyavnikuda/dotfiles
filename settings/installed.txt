@@ -1,0 +1,16 @@
+dev.patrickpichler.darculaPitchBlackTheme
+com.vermouthx.idea
+com.andrey4623.rainbowcsv
+com.intellij.ideolog
+Key Promoter X
+org.jetbrains.plugins.go
+ski.chrzanow.foldableprojectview
+com.intellij.kubernetes
+DBN
+jd-intellij
+MavenRunHelper
+Pythonid
+izhangzhihao.rainbow.brackets
+mobi.hsz.idea.gitignore
+cn.yiiguxing.plugin.translate
+com.github.codespaces.jetbrains.gateway
