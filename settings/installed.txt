@@ -2,6 +2,7 @@ dev.patrickpichler.darculaPitchBlackTheme
 com.vermouthx.idea
 com.andrey4623.rainbowcsv
 com.intellij.ideolog
+com.markskelton.one-dark-theme
 Key Promoter X
 org.jetbrains.plugins.go
 ski.chrzanow.foldableprojectview
