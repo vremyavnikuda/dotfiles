@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "9d2c20798e2a1403",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e2d8c153a429bbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ac02d07ac95cc6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rust/метод match.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0409d091513029a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7c37b63322b6358",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a52d94bb46059ec6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bbda6507ba8c929b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f7dd6c97c2798cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.5
+  },
+  "right": {
+    "id": "1f93c43b845748f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5289e9f5dad4a3a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bf67cbc81ed7674",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "rust/метод match.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb71e3e70a691074",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "rust/метод match.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0bf25674ab655c73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "782dfc71c4bf0901",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "rust/метод match.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "a52d94bb46059ec6",
+  "lastOpenFiles": [
+    "java/vget api java youtube.md",
+    "java/pgAdmin4.md",
+    "java/MediaManager.md",
+    "java/Домашний сервер.md",
+    "java/Media Manager Java/методы MediaManager/Форма регистрации и таблица пользователей.md",
+    "java/Media Manager Java/методы MediaManager/Исправить application.properties.md",
+    "java/Media Manager Java/методы MediaManager/Восстановление пароля MediaManager.md",
+    "java/images/original (2).png",
+    "java/images/original (1).png",
+    "java/images/original.png",
+    "java/DataBase/Spring Boot подключается к базе данных PostgreSQL.md",
+    "java/DataBase/PostgreSQL.md",
+    "java/DataBase/Поиск максимального id(идентификатор в db).md",
+    "java/DataBase/генерация рандомного id.md",
+    "java/DataBase/БД PostgreSQL к RESTful сервису на Spring Boot.md",
+    "Исправление go current file run.md",
+    "java/java learning/spring Аннотации/Основные аннотации Spring Framework в Java.md",
+    "java/java learning/spring Аннотации/@Service.md",
+    "java/java learning/spring Аннотации/@ResponseBody.md",
+    "java/java learning/spring Аннотации/@RequestMapping.md",
+    "java/java learning/spring Аннотации/@Repository.md",
+    "java/java learning/spring Аннотации/@Controller.md",
+    "java/java learning/spring Аннотации/@Component.md",
+    "java/java learning/spring Аннотации/@Bean.md",
+    "java/java learning/spring Аннотации/@Autowired.md",
+    "java/java learning/spring Аннотации",
+    "java/java learning/road map java developer.md",
+    "java/java learning",
+    "java/images",
+    "java/Vaadin/адаптивный SPA сайт без JavaScript (на оленях и Spring Boot).md",
+    "java/Vaadin/Создание кнопки.md",
+    "java/Vaadin/vaadin (перенаправление по определенному url).md",
+    "java/Vaadin",
+    "java/Media Manager Java/методы MediaManager",
+    "java/Media Manager Java/Media Manager webapp.canvas",
+    "java/Media Manager Java",
+    "java/Docker Java",
+    "java/DataBase",
+    "java",
+    "java.zip"
+  ]
+}
