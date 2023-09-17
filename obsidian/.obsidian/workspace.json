@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust/метод match.md",
+                "file": "Математический анализ/3. Множество действительных чисел.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 225.5,
+    "collapsed": true
   },
   "right": {
     "id": "1f93c43b845748f7",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rust/метод match.md",
+                "file": "Математический анализ/3. Множество действительных чисел.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rust/метод match.md",
+                "file": "Математический анализ/3. Множество действительных чисел.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rust/метод match.md"
+                "file": "Математический анализ/3. Множество действительных чисел.md"
+              }
+            }
+          },
+          {
+            "id": "72c28f2e40252206",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -146,12 +157,21 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a52d94bb46059ec6",
+  "active": "5ac02d07ac95cc6f",
   "lastOpenFiles": [
+    "Математический анализ/2. Множества , Определение множества.md",
+    "Математический анализ/1. Введение.md",
+    "Математический анализ/3. Множество действительных чисел.md",
+    "Математический анализ/Список используемых обозначений в математическом анализе.md",
+    "java/DataBase/Поиск максимального id(идентификатор в db).md",
+    "Математический анализ",
+    "java/DataBase/генерация рандомного id.md",
     "java/vget api java youtube.md",
     "java/pgAdmin4.md",
     "java/MediaManager.md",
     "java/Домашний сервер.md",
+    "rust basic/Переменные.md",
+    "rust/метод match.md",
     "java/Media Manager Java/методы MediaManager/Форма регистрации и таблица пользователей.md",
     "java/Media Manager Java/методы MediaManager/Исправить application.properties.md",
     "java/Media Manager Java/методы MediaManager/Восстановление пароля MediaManager.md",
@@ -160,8 +180,6 @@
     "java/images/original.png",
     "java/DataBase/Spring Boot подключается к базе данных PostgreSQL.md",
     "java/DataBase/PostgreSQL.md",
-    "java/DataBase/Поиск максимального id(идентификатор в db).md",
-    "java/DataBase/генерация рандомного id.md",
     "java/DataBase/БД PostgreSQL к RESTful сервису на Spring Boot.md",
     "Исправление go current file run.md",
     "java/java learning/spring Аннотации/Основные аннотации Spring Framework в Java.md",
@@ -171,22 +189,15 @@
     "java/java learning/spring Аннотации/@Repository.md",
     "java/java learning/spring Аннотации/@Controller.md",
     "java/java learning/spring Аннотации/@Component.md",
-    "java/java learning/spring Аннотации/@Bean.md",
-    "java/java learning/spring Аннотации/@Autowired.md",
     "java/java learning/spring Аннотации",
-    "java/java learning/road map java developer.md",
     "java/java learning",
     "java/images",
-    "java/Vaadin/адаптивный SPA сайт без JavaScript (на оленях и Spring Boot).md",
-    "java/Vaadin/Создание кнопки.md",
-    "java/Vaadin/vaadin (перенаправление по определенному url).md",
     "java/Vaadin",
     "java/Media Manager Java/методы MediaManager",
     "java/Media Manager Java/Media Manager webapp.canvas",
     "java/Media Manager Java",
     "java/Docker Java",
     "java/DataBase",
-    "java",
-    "java.zip"
+    "java"
   ]
 }
