@@ -4,22 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1e2d8c153a429bbc",
+        "id": "d3168965fb7dbc52",
         "type": "tabs",
         "children": [
           {
-            "id": "5ac02d07ac95cc6f",
+            "id": "8c1906076894277f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Математический анализ/3. Множество действительных чисел.md",
+                "file": "NSTU_Project/Полезные команды Angular.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -69,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 415.5124969482422
   },
   "right": {
     "id": "1f93c43b845748f7",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Математический анализ/3. Множество действительных чисел.md",
+                "file": "NSTU_Project/Полезные команды Angular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Математический анализ/3. Множество действительных чисел.md",
+                "file": "NSTU_Project/Полезные команды Angular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Математический анализ/3. Множество действительных чисел.md"
+                "file": "NSTU_Project/Полезные команды Angular.md"
               }
             }
           },
@@ -157,47 +158,50 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5ac02d07ac95cc6f",
+  "active": "8c1906076894277f",
   "lastOpenFiles": [
-    "Математический анализ/2. Множества , Определение множества.md",
-    "Математический анализ/1. Введение.md",
-    "Математический анализ/3. Множество действительных чисел.md",
-    "Математический анализ/Список используемых обозначений в математическом анализе.md",
-    "java/DataBase/Поиск максимального id(идентификатор в db).md",
-    "Математический анализ",
-    "java/DataBase/генерация рандомного id.md",
-    "java/vget api java youtube.md",
-    "java/pgAdmin4.md",
-    "java/MediaManager.md",
-    "java/Домашний сервер.md",
-    "rust basic/Переменные.md",
-    "rust/метод match.md",
-    "java/Media Manager Java/методы MediaManager/Форма регистрации и таблица пользователей.md",
-    "java/Media Manager Java/методы MediaManager/Исправить application.properties.md",
-    "java/Media Manager Java/методы MediaManager/Восстановление пароля MediaManager.md",
-    "java/images/original (2).png",
-    "java/images/original (1).png",
-    "java/images/original.png",
-    "java/DataBase/Spring Boot подключается к базе данных PostgreSQL.md",
-    "java/DataBase/PostgreSQL.md",
-    "java/DataBase/БД PostgreSQL к RESTful сервису на Spring Boot.md",
+    "NSTU_Project/map nstu project.canvas",
+    "NSTU_Project/Полезные команды Angular.md",
+    "programing/git/Как откатиться ну нужного commit.md",
+    "NSTU_Project/mindMap проекта.canvas",
+    "алгебра/пример задачи по математике.md",
+    "алгебра/Вычислить длину высоты, проведенной из вершины В.md",
+    "2023-12-07.md",
+    "Без названия.md",
+    "алгебра/img/Снимок экрана 2023-12-06 210737.png",
+    "алгебра/img",
+    "алгебра",
+    "MindMap.canvas",
+    "angular/primeng.md",
+    "angular/полезные команды angular.md",
+    "angular/Компоненты Angular.md",
+    "Шпаргалка по командам Git на русском.md",
+    "Краткая шпаргалка по сочетаниям клавиш в IntelliJ IDEA.md",
     "Исправление go current file run.md",
-    "java/java learning/spring Аннотации/Основные аннотации Spring Framework в Java.md",
-    "java/java learning/spring Аннотации/@Service.md",
-    "java/java learning/spring Аннотации/@ResponseBody.md",
-    "java/java learning/spring Аннотации/@RequestMapping.md",
-    "java/java learning/spring Аннотации/@Repository.md",
-    "java/java learning/spring Аннотации/@Controller.md",
-    "java/java learning/spring Аннотации/@Component.md",
-    "java/java learning/spring Аннотации",
-    "java/java learning",
-    "java/images",
-    "java/Vaadin",
-    "java/Media Manager Java/методы MediaManager",
-    "java/Media Manager Java/Media Manager webapp.canvas",
-    "java/Media Manager Java",
-    "java/Docker Java",
-    "java/DataBase",
-    "java"
+    "programing/программирование/Функциональное программирование(ФП).md",
+    "programing/программирование",
+    "NSTU_Project",
+    "programing/git",
+    "programing/java/java/junior/Тернарный оператор выбора.md",
+    "programing/go/Получить от пользователя ввод данных Scan() и Scanln().md",
+    "programing/go/Оператор switch.md",
+    "programing/go/логические операторы.md",
+    "2023-11-16.md",
+    "programing/java/java/junior/Операторы сравнения.md",
+    "programing/MainPage.md",
+    "programing/java.md",
+    "java.md",
+    "programing",
+    "programing/java/java/middle/Кэширование.md",
+    "angular",
+    "programing/java/Media Manager Java/методы MediaManager/Исправить application.properties.md",
+    "programing/java/java/middle/Параллельные аккумуляторы.md",
+    "programing/java/java/middle",
+    "programing/java/java/junior",
+    "programing/java/Spring",
+    "programing/java/images/original (1).png",
+    "programing/java/images/original.png",
+    "programing/java/Media Manager Java/Media Manager webapp.canvas",
+    "programing/java/images/original (2).png"
   ]
 }
