@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSTU_Project/Полезные команды Angular.md",
+                "file": "programing/go/Основные(базовые) типы данных Golang.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSTU_Project/Полезные команды Angular.md",
+                "file": "programing/go/Основные(базовые) типы данных Golang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSTU_Project/Полезные команды Angular.md",
+                "file": "programing/go/Основные(базовые) типы данных Golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSTU_Project/Полезные команды Angular.md"
+                "file": "programing/go/Основные(базовые) типы данных Golang.md"
               }
             }
           },
@@ -137,7 +137,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -160,8 +162,13 @@
   },
   "active": "8c1906076894277f",
   "lastOpenFiles": [
-    "NSTU_Project/map nstu project.canvas",
+    "angular/Компоненты Angular.md",
+    "angular/полезные команды Angular {version}.md",
+    "angular/primeng.md",
+    "programing/go/Основные(базовые) типы данных Golang.md",
     "NSTU_Project/Полезные команды Angular.md",
+    "golang",
+    "NSTU_Project/map nstu project.canvas",
     "programing/git/Как откатиться ну нужного commit.md",
     "NSTU_Project/mindMap проекта.canvas",
     "алгебра/пример задачи по математике.md",
@@ -172,9 +179,6 @@
     "алгебра/img",
     "алгебра",
     "MindMap.canvas",
-    "angular/primeng.md",
-    "angular/полезные команды angular.md",
-    "angular/Компоненты Angular.md",
     "Шпаргалка по командам Git на русском.md",
     "Краткая шпаргалка по сочетаниям клавиш в IntelliJ IDEA.md",
     "Исправление go current file run.md",
@@ -198,7 +202,6 @@
     "programing/java/java/middle/Параллельные аккумуляторы.md",
     "programing/java/java/middle",
     "programing/java/java/junior",
-    "programing/java/Spring",
     "programing/java/images/original (1).png",
     "programing/java/images/original.png",
     "programing/java/Media Manager Java/Media Manager webapp.canvas",
