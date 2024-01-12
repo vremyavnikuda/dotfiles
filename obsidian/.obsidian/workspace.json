@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programing/docker/build.md",
+                "file": "angular/Автодополнение.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5124969482422,
-    "collapsed": true
+    "width": 341.5124969482422
   },
   "right": {
     "id": "1f93c43b845748f7",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programing/docker/build.md",
+                "file": "angular/Автодополнение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programing/docker/build.md",
+                "file": "angular/Автодополнение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programing/docker/build.md"
+                "file": "angular/Автодополнение.md"
               }
             }
           },
@@ -161,14 +160,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a52d94bb46059ec6",
+  "active": "8c1906076894277f",
   "lastOpenFiles": [
-    "programing/git/Как откатиться ну нужного commit.md",
+    "angular/полезные команды Angular {version}.md",
+    "angular/Компоненты Angular.md",
+    "angular/Автодополнение.md",
+    "programing/программирование/Функциональное программирование(ФП).md",
     "programing/docker/build.md",
+    "programing/git/Как откатиться ну нужного commit.md",
     "programing/docker",
     "programing/go/Основные(базовые) типы данных Golang.md",
-    "angular/Компоненты Angular.md",
-    "angular/полезные команды Angular {version}.md",
     "angular/primeng.md",
     "NSTU_Project/Полезные команды Angular.md",
     "golang",
@@ -185,7 +186,6 @@
     "Шпаргалка по командам Git на русском.md",
     "Краткая шпаргалка по сочетаниям клавиш в IntelliJ IDEA.md",
     "Исправление go current file run.md",
-    "programing/программирование/Функциональное программирование(ФП).md",
     "programing/программирование",
     "NSTU_Project",
     "programing/git",
@@ -201,7 +201,6 @@
     "programing",
     "programing/java/java/middle/Кэширование.md",
     "angular",
-    "programing/java/Media Manager Java/методы MediaManager/Исправить application.properties.md",
     "programing/java/java/middle",
     "programing/java/images/original (1).png",
     "programing/java/images/original.png",
