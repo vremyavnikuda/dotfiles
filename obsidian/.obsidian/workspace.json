@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programing/go/Основные(базовые) типы данных Golang.md",
+                "file": "programing/docker/build.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5124969482422
+    "width": 415.5124969482422,
+    "collapsed": true
   },
   "right": {
     "id": "1f93c43b845748f7",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programing/go/Основные(базовые) типы данных Golang.md",
+                "file": "programing/docker/build.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programing/go/Основные(базовые) типы данных Golang.md",
+                "file": "programing/docker/build.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programing/go/Основные(базовые) типы данных Golang.md"
+                "file": "programing/docker/build.md"
               }
             }
           },
@@ -160,16 +161,18 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8c1906076894277f",
+  "active": "a52d94bb46059ec6",
   "lastOpenFiles": [
+    "programing/git/Как откатиться ну нужного commit.md",
+    "programing/docker/build.md",
+    "programing/docker",
+    "programing/go/Основные(базовые) типы данных Golang.md",
     "angular/Компоненты Angular.md",
     "angular/полезные команды Angular {version}.md",
     "angular/primeng.md",
-    "programing/go/Основные(базовые) типы данных Golang.md",
     "NSTU_Project/Полезные команды Angular.md",
     "golang",
     "NSTU_Project/map nstu project.canvas",
-    "programing/git/Как откатиться ну нужного commit.md",
     "NSTU_Project/mindMap проекта.canvas",
     "алгебра/пример задачи по математике.md",
     "алгебра/Вычислить длину высоты, проведенной из вершины В.md",
@@ -199,9 +202,7 @@
     "programing/java/java/middle/Кэширование.md",
     "angular",
     "programing/java/Media Manager Java/методы MediaManager/Исправить application.properties.md",
-    "programing/java/java/middle/Параллельные аккумуляторы.md",
     "programing/java/java/middle",
-    "programing/java/java/junior",
     "programing/java/images/original (1).png",
     "programing/java/images/original.png",
     "programing/java/Media Manager Java/Media Manager webapp.canvas",
