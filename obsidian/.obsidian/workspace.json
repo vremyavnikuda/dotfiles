@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "angular/Автодополнение.md",
+                "file": "programing/go/Go Redis.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5124969482422
+    "width": 285.5124969482422
   },
   "right": {
     "id": "1f93c43b845748f7",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "angular/Автодополнение.md",
+                "file": "programing/go/Go Redis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "angular/Автодополнение.md",
+                "file": "programing/go/Go Redis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "angular/Автодополнение.md"
+                "file": "programing/go/Go Redis.md"
               }
             }
           },
@@ -162,19 +162,27 @@
   },
   "active": "8c1906076894277f",
   "lastOpenFiles": [
-    "angular/полезные команды Angular {version}.md",
-    "angular/Компоненты Angular.md",
+    "angular/Время когда пользователь вошёл в систему.md",
+    "programing/go/Go Redis.md",
     "angular/Автодополнение.md",
-    "programing/программирование/Функциональное программирование(ФП).md",
+    "programing/go/100 вопросов по golang.md",
+    "programing/go/логические операторы.md",
+    "NSTU_Project/map nstu project.canvas",
+    "NSTU_Project/Полезные команды Angular.md",
+    "NSTU_Project/mindMap проекта.canvas",
+    "MindMap.canvas",
     "programing/docker/build.md",
     "programing/git/Как откатиться ну нужного commit.md",
-    "programing/docker",
+    "programing/go/условный оператор if.md",
+    "programing/go/Получить от пользователя ввод данных Scan() и Scanln().md",
     "programing/go/Основные(базовые) типы данных Golang.md",
+    "programing/go/Оператор switch.md",
+    "angular/полезные команды Angular {version}.md",
+    "angular/Компоненты Angular.md",
+    "programing/программирование/Функциональное программирование(ФП).md",
+    "programing/docker",
     "angular/primeng.md",
-    "NSTU_Project/Полезные команды Angular.md",
     "golang",
-    "NSTU_Project/map nstu project.canvas",
-    "NSTU_Project/mindMap проекта.canvas",
     "алгебра/пример задачи по математике.md",
     "алгебра/Вычислить длину высоты, проведенной из вершины В.md",
     "2023-12-07.md",
@@ -182,7 +190,6 @@
     "алгебра/img/Снимок экрана 2023-12-06 210737.png",
     "алгебра/img",
     "алгебра",
-    "MindMap.canvas",
     "Шпаргалка по командам Git на русском.md",
     "Краткая шпаргалка по сочетаниям клавиш в IntelliJ IDEA.md",
     "Исправление go current file run.md",
@@ -190,16 +197,9 @@
     "NSTU_Project",
     "programing/git",
     "programing/java/java/junior/Тернарный оператор выбора.md",
-    "programing/go/Получить от пользователя ввод данных Scan() и Scanln().md",
-    "programing/go/Оператор switch.md",
-    "programing/go/логические операторы.md",
     "2023-11-16.md",
     "programing/java/java/junior/Операторы сравнения.md",
-    "programing/MainPage.md",
-    "programing/java.md",
-    "java.md",
     "programing",
-    "programing/java/java/middle/Кэширование.md",
     "angular",
     "programing/java/java/middle",
     "programing/java/images/original (1).png",
