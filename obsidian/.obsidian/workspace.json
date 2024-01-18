@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programing/go/Go Redis.md",
+                "file": "programing/программирование/Сложность алгоритма.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programing/go/Go Redis.md",
+                "file": "programing/программирование/Сложность алгоритма.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programing/go/Go Redis.md",
+                "file": "programing/программирование/Сложность алгоритма.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programing/go/Go Redis.md"
+                "file": "programing/программирование/Сложность алгоритма.md"
               }
             }
           },
@@ -162,10 +162,11 @@
   },
   "active": "8c1906076894277f",
   "lastOpenFiles": [
-    "angular/Время когда пользователь вошёл в систему.md",
-    "programing/go/Go Redis.md",
-    "angular/Автодополнение.md",
     "programing/go/100 вопросов по golang.md",
+    "programing/программирование/Сложность алгоритма.md",
+    "programing/go/Go Redis.md",
+    "angular/Время когда пользователь вошёл в систему.md",
+    "angular/Автодополнение.md",
     "programing/go/логические операторы.md",
     "NSTU_Project/map nstu project.canvas",
     "NSTU_Project/Полезные команды Angular.md",
@@ -198,7 +199,6 @@
     "programing/git",
     "programing/java/java/junior/Тернарный оператор выбора.md",
     "2023-11-16.md",
-    "programing/java/java/junior/Операторы сравнения.md",
     "programing",
     "angular",
     "programing/java/java/middle",
