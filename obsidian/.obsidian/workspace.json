@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programing/программирование/Сложность алгоритма.md",
+                "file": "angular/полезные команды Angular {version}.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#programming",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programing/программирование/Сложность алгоритма.md",
+                "file": "angular/полезные команды Angular {version}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programing/программирование/Сложность алгоритма.md",
+                "file": "angular/полезные команды Angular {version}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programing/программирование/Сложность алгоритма.md"
+                "file": "angular/полезные команды Angular {version}.md"
               }
             }
           },
@@ -160,45 +160,45 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8c1906076894277f",
+  "active": "a52d94bb46059ec6",
   "lastOpenFiles": [
-    "programing/go/100 вопросов по golang.md",
-    "programing/программирование/Сложность алгоритма.md",
+    "angular/Компоненты Angular.md",
+    "Краткая шпаргалка по сочетаниям клавиш в IntelliJ IDEA.md",
+    "Исправление go current file run.md",
     "programing/go/Go Redis.md",
-    "angular/Время когда пользователь вошёл в систему.md",
-    "angular/Автодополнение.md",
-    "programing/go/логические операторы.md",
-    "NSTU_Project/map nstu project.canvas",
-    "NSTU_Project/Полезные команды Angular.md",
-    "NSTU_Project/mindMap проекта.canvas",
-    "MindMap.canvas",
-    "programing/docker/build.md",
-    "programing/git/Как откатиться ну нужного commit.md",
+    "2023-12-07.md",
     "programing/go/условный оператор if.md",
     "programing/go/Получить от пользователя ввод данных Scan() и Scanln().md",
     "programing/go/Основные(базовые) типы данных Golang.md",
     "programing/go/Оператор switch.md",
+    "programing/go/логические операторы.md",
+    "programing/go/100 вопросов по golang.md",
+    "angular/Автодополнение.md",
+    "NSTU_Project/Полезные команды Angular.md",
     "angular/полезные команды Angular {version}.md",
-    "angular/Компоненты Angular.md",
+    "angular/Время когда пользователь вошёл в систему.md",
+    "NSTU_Project/map nstu project.canvas",
+    "programing/java/java/junior/Тернарный оператор выбора.md",
+    "programing/java/Spring/spring Аннотации/@Bean.md",
+    "NSTU_Project/mindMap проекта.canvas",
+    "MindMap.canvas",
+    "programing/программирование/Сложность алгоритма.md",
+    "programing/docker/build.md",
+    "programing/git/Как откатиться ну нужного commit.md",
     "programing/программирование/Функциональное программирование(ФП).md",
     "programing/docker",
     "angular/primeng.md",
     "golang",
     "алгебра/пример задачи по математике.md",
     "алгебра/Вычислить длину высоты, проведенной из вершины В.md",
-    "2023-12-07.md",
     "Без названия.md",
     "алгебра/img/Снимок экрана 2023-12-06 210737.png",
     "алгебра/img",
     "алгебра",
     "Шпаргалка по командам Git на русском.md",
-    "Краткая шпаргалка по сочетаниям клавиш в IntelliJ IDEA.md",
-    "Исправление go current file run.md",
     "programing/программирование",
     "NSTU_Project",
     "programing/git",
-    "programing/java/java/junior/Тернарный оператор выбора.md",
-    "2023-11-16.md",
     "programing",
     "angular",
     "programing/java/java/middle",
