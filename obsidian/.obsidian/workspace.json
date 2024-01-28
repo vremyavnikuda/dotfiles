@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d3168965fb7dbc52",
+        "id": "ba348f5424dc9b53",
         "type": "tabs",
         "children": [
           {
-            "id": "8c1906076894277f",
+            "id": "7364874418fb3a47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "angular/полезные команды Angular {version}.md",
+                "file": "angular/Встраиваем компонент в кнопку.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#programming",
+                "query": "tag:#java",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "angular/полезные команды Angular {version}.md",
+                "file": "angular/Встраиваем компонент в кнопку.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "angular/полезные команды Angular {version}.md",
+                "file": "angular/Встраиваем компонент в кнопку.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "angular/полезные команды Angular {version}.md"
+                "file": "angular/Встраиваем компонент в кнопку.md"
               }
             }
           },
@@ -160,9 +160,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a52d94bb46059ec6",
+  "active": "7364874418fb3a47",
   "lastOpenFiles": [
+    "angular/полезные команды Angular {version}.md",
+    "angular/Встраиваем компонент в кнопку.md",
+    "angular/primeng.md",
     "angular/Компоненты Angular.md",
+    "angular/Время когда пользователь вошёл в систему.md",
+    "angular/Автодополнение.md",
+    "NSTU_Project/Полезные команды Angular.md",
     "Краткая шпаргалка по сочетаниям клавиш в IntelliJ IDEA.md",
     "Исправление go current file run.md",
     "programing/go/Go Redis.md",
@@ -173,10 +179,6 @@
     "programing/go/Оператор switch.md",
     "programing/go/логические операторы.md",
     "programing/go/100 вопросов по golang.md",
-    "angular/Автодополнение.md",
-    "NSTU_Project/Полезные команды Angular.md",
-    "angular/полезные команды Angular {version}.md",
-    "angular/Время когда пользователь вошёл в систему.md",
     "NSTU_Project/map nstu project.canvas",
     "programing/java/java/junior/Тернарный оператор выбора.md",
     "programing/java/Spring/spring Аннотации/@Bean.md",
@@ -187,7 +189,6 @@
     "programing/git/Как откатиться ну нужного commit.md",
     "programing/программирование/Функциональное программирование(ФП).md",
     "programing/docker",
-    "angular/primeng.md",
     "golang",
     "алгебра/пример задачи по математике.md",
     "алгебра/Вычислить длину высоты, проведенной из вершины В.md",
@@ -195,7 +196,6 @@
     "алгебра/img/Снимок экрана 2023-12-06 210737.png",
     "алгебра/img",
     "алгебра",
-    "Шпаргалка по командам Git на русском.md",
     "programing/программирование",
     "NSTU_Project",
     "programing/git",
