@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "angular/Встраиваем компонент в кнопку.md",
+                "file": "programing/git/Как откатиться ну нужного commit.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "angular/Встраиваем компонент в кнопку.md",
+                "file": "programing/git/Как откатиться ну нужного commit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "angular/Встраиваем компонент в кнопку.md",
+                "file": "programing/git/Как откатиться ну нужного commit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "angular/Встраиваем компонент в кнопку.md"
+                "file": "programing/git/Как откатиться ну нужного commit.md"
               }
             }
           },
@@ -162,8 +162,8 @@
   },
   "active": "7364874418fb3a47",
   "lastOpenFiles": [
-    "angular/полезные команды Angular {version}.md",
     "angular/Встраиваем компонент в кнопку.md",
+    "angular/полезные команды Angular {version}.md",
     "angular/primeng.md",
     "angular/Компоненты Angular.md",
     "angular/Время когда пользователь вошёл в систему.md",
