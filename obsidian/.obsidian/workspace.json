@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programing/go/массивы/3. Срезы (слайсы, slices).md",
+                "file": "programing/go/массивы/9. Особенности работы со срезами.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programing/go/массивы/3. Срезы (слайсы, slices).md",
+                "file": "programing/go/массивы/9. Особенности работы со срезами.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programing/go/массивы/3. Срезы (слайсы, slices).md",
+                "file": "programing/go/массивы/9. Особенности работы со срезами.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programing/go/массивы/3. Срезы (слайсы, slices).md"
+                "file": "programing/go/массивы/9. Особенности работы со срезами.md"
               }
             }
           },
@@ -162,8 +162,14 @@
   },
   "active": "7364874418fb3a47",
   "lastOpenFiles": [
-    "programing/go/массивы/1. Массивы.md",
+    "programing/go/массивы/8. Функция copy - копирование элементов среза.md",
+    "programing/go/массивы/9. Особенности работы со срезами.md",
+    "programing/go/массивы/6. Не много о длине массива и емкости среза.md",
+    "programing/go/массивы/7. Использование append для удаления элемента из среза.md",
+    "programing/go/массивы/5. Встроенные функции для работы со срезами.md",
+    "programing/go/массивы/4. Оператор среза.md",
     "programing/go/массивы/2. Обращение к элементам массива. Индексы.md",
+    "programing/go/массивы/1. Массивы.md",
     "programing/go/массивы/3. Срезы (слайсы, slices).md",
     "programing/go/Форматированный вывод.md",
     "NSTU_Project/TT.md",
@@ -184,12 +190,6 @@
     "angular/Время когда пользователь вошёл в систему.md",
     "angular/Автодополнение.md",
     "NSTU_Project/Полезные команды Angular.md",
-    "programing/go/Go Redis.md",
-    "2023-12-07.md",
-    "programing/go/условный оператор if.md",
-    "programing/go/Получить от пользователя ввод данных Scan() и Scanln().md",
-    "programing/go/Основные(базовые) типы данных Golang.md",
-    "programing/go/Оператор switch.md",
     "NSTU_Project/map nstu project.canvas",
     "NSTU_Project/mindMap проекта.canvas",
     "programing/docker",
