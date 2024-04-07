@@ -11,6 +11,7 @@ public class KeyboardInput {
     public const byte VK_TAB = 0x09;
     public const byte VK_DOWN = 0x28;
     public const byte VK_D = 0x44;
+    public const byte VK_ENTER = 0x0D;
 }
 "@
 
@@ -47,3 +48,9 @@ for ($j = 0; $j -lt 10; $j++) {
     [KeyboardInput]::keybd_event([KeyboardInput]::VK_DOWN, 0, [KeyboardInput]::KEYEVENTF_KEYUP, 0)
     Start-Sleep -Milliseconds 100
 }
+
+#Press the 'Enter' key
+[KeyboardInput]::keybd_event([KeyboardInput]::VK_ENTER, 0, 0, 0)
+Start-Sleep -Milliseconds 100
+[KeyboardInput]::keybd_event([KeyboardInput]::VK_ENTER, 0, [KeyboardInput]::KEYEVENTF_KEYUP, 0)
+Start-Sleep -Milliseconds 100

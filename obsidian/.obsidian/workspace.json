@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programing/git/Как откатиться ну нужного commit.md",
+                "file": "programing/go/массивы/3. Срезы (слайсы, slices).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5124969482422
+    "width": 200
   },
   "right": {
     "id": "1f93c43b845748f7",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programing/git/Как откатиться ну нужного commit.md",
+                "file": "programing/go/массивы/3. Срезы (слайсы, slices).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programing/git/Как откатиться ну нужного commit.md",
+                "file": "programing/go/массивы/3. Срезы (слайсы, slices).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programing/git/Как откатиться ну нужного commit.md"
+                "file": "programing/go/массивы/3. Срезы (слайсы, slices).md"
               }
             }
           },
@@ -162,6 +162,21 @@
   },
   "active": "7364874418fb3a47",
   "lastOpenFiles": [
+    "programing/go/массивы/1. Массивы.md",
+    "programing/go/массивы/2. Обращение к элементам массива. Индексы.md",
+    "programing/go/массивы/3. Срезы (слайсы, slices).md",
+    "programing/go/Форматированный вывод.md",
+    "NSTU_Project/TT.md",
+    "programing/go/массивы",
+    "programing/rust/rocket/Мапим url (get запросы).md",
+    "programing/программирование/Функциональное программирование(ФП).md",
+    "programing/программирование/Сложность алгоритма.md",
+    "Исправление go current file run.md",
+    "Краткая шпаргалка по сочетаниям клавиш в IntelliJ IDEA.md",
+    "Шпаргалка по командам Git на русском.md",
+    "programing/docker/build.md",
+    "MindMap.canvas",
+    "programing/git/Как откатиться ну нужного commit.md",
     "angular/Встраиваем компонент в кнопку.md",
     "angular/полезные команды Angular {version}.md",
     "angular/primeng.md",
@@ -169,30 +184,16 @@
     "angular/Время когда пользователь вошёл в систему.md",
     "angular/Автодополнение.md",
     "NSTU_Project/Полезные команды Angular.md",
-    "Краткая шпаргалка по сочетаниям клавиш в IntelliJ IDEA.md",
-    "Исправление go current file run.md",
     "programing/go/Go Redis.md",
     "2023-12-07.md",
     "programing/go/условный оператор if.md",
     "programing/go/Получить от пользователя ввод данных Scan() и Scanln().md",
     "programing/go/Основные(базовые) типы данных Golang.md",
     "programing/go/Оператор switch.md",
-    "programing/go/логические операторы.md",
-    "programing/go/100 вопросов по golang.md",
     "NSTU_Project/map nstu project.canvas",
-    "programing/java/java/junior/Тернарный оператор выбора.md",
-    "programing/java/Spring/spring Аннотации/@Bean.md",
     "NSTU_Project/mindMap проекта.canvas",
-    "MindMap.canvas",
-    "programing/программирование/Сложность алгоритма.md",
-    "programing/docker/build.md",
-    "programing/git/Как откатиться ну нужного commit.md",
-    "programing/программирование/Функциональное программирование(ФП).md",
     "programing/docker",
     "golang",
-    "алгебра/пример задачи по математике.md",
-    "алгебра/Вычислить длину высоты, проведенной из вершины В.md",
-    "Без названия.md",
     "алгебра/img/Снимок экрана 2023-12-06 210737.png",
     "алгебра/img",
     "алгебра",
@@ -201,7 +202,6 @@
     "programing/git",
     "programing",
     "angular",
-    "programing/java/java/middle",
     "programing/java/images/original (1).png",
     "programing/java/images/original.png",
     "programing/java/Media Manager Java/Media Manager webapp.canvas",
