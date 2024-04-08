@@ -10,6 +10,9 @@
     "explorer.confirmDragAndDrop": false,
     "editor.wordWrap": "on",
     "explorer.confirmDelete": false,
+    //Angular
+    "angular.suggest.includeAutomaticOptionalChainCompletions": true,
+    "angular.suggest.includeCompletionsWithSnippetText": true,
     "reactSnippets.settings.importReactOnTop": false,
     "editor.cursorBlinking": "expand",
     "editor.find.cursorMoveOnType": false,
@@ -26,9 +29,7 @@
     "editor.accessibilitySupport": "off",
     "terminal.integrated.env.windows": {},
     "git.autofetch": true,
-    "workbench.statusBar.visible": false,
     "workbench.colorTheme": "Dark Magic Tokyo",
-    "window.menuBarVisibility": "toggle",
     // Навигационная панель по центру
     "window.commandCenter": false,
     "window.zoomLevel": 0,
@@ -41,6 +42,7 @@
         "usePlaceholders": true, // для добавления пустых строк импорта с подсказками
         "completionDocumentation": true // для отображения документации при автодополнении
     },
+
     //Angular imports
     "angular.ng-cli": {
         "autoImportCompletionMode": "auto", // Режим автоимпорта: "auto", "manual" или "file"
@@ -58,10 +60,11 @@
         "editor.insertSpaces": true,
         "editor.tabSize": 4
     },
-    "workbench.activityBar.location": "hidden",
+    "workbench.activityBar.location": "bottom",
     "workbench.colorCustomizations": {},
     "editor.formatOnPaste": true,
     "angular.log": "terse",
     "window.confirmSaveUntitledWorkspace": false,
-    "cSpell.language": "en,ru"
+    "cSpell.language": "en,ru",
+    "cSpell.userWords": ["vremyavnikuda"]
 }
