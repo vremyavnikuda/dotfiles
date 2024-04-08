@@ -1,0 +1,67 @@
+{
+    "editor.fontFamily": "Dark Mono",
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "breadcrumbs.enabled": false,
+    "editor.minimap.enabled": true,
+    "editor.fontSize": 19,
+    "editor.lineNumbers": "on",
+    "explorer.confirmDragAndDrop": false,
+    "editor.wordWrap": "on",
+    "explorer.confirmDelete": false,
+    "reactSnippets.settings.importReactOnTop": false,
+    "editor.cursorBlinking": "expand",
+    "editor.find.cursorMoveOnType": false,
+    "editor.cursorSmoothCaretAnimation": "on",
+
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+
+    "terminal.integrated.enableMultiLinePasteWarning": "auto",
+    "git.openRepositoryInParentFolders": "never",
+    "workbench.iconTheme": "material-icon-theme",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.accessibilitySupport": "off",
+    "terminal.integrated.env.windows": {},
+    "git.autofetch": true,
+    "workbench.statusBar.visible": false,
+    "workbench.colorTheme": "Dark Magic Tokyo",
+    "window.menuBarVisibility": "toggle",
+    // Навигационная панель по центру
+    "window.commandCenter": false,
+    "window.zoomLevel": 0,
+    "SortWrapper": true,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+
+    //Go imports
+    "gopls": {
+        "usePlaceholders": true, // для добавления пустых строк импорта с подсказками
+        "completionDocumentation": true // для отображения документации при автодополнении
+    },
+    //Angular imports
+    "angular.ng-cli": {
+        "autoImportCompletionMode": "auto", // Режим автоимпорта: "auto", "manual" или "file"
+        "autoImportFileExcludePatterns": [] // Исключить файлы по шаблону
+    },
+    //Auto save
+    "files.autoSave": "afterDelay",
+    //Auto save delay
+    "files.autoSaveDelay": 1000,
+    "editor.tabCompletion": "on",
+    "prettier.tabWidth": 4,
+    "git-graph.tabIconColourTheme": "grey",
+    "window.density.editorTabHeight": "compact",
+    "[javascript]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4
+    },
+    "workbench.activityBar.location": "hidden",
+    "workbench.colorCustomizations": {},
+    "editor.formatOnPaste": true,
+    "angular.log": "terse",
+    "window.confirmSaveUntitledWorkspace": false,
+    "cSpell.language": "en,ru"
+}
