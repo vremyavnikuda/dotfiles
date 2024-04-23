@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programing/go/массивы/1. Массивы.md",
+                "file": "programing/rust/rust basic/0 - Переменные.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 345.5
   },
   "right": {
     "id": "1f93c43b845748f7",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programing/go/массивы/1. Массивы.md",
+                "file": "programing/rust/rust basic/0 - Переменные.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programing/go/массивы/1. Массивы.md",
+                "file": "programing/rust/rust basic/0 - Переменные.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programing/go/массивы/1. Массивы.md"
+                "file": "programing/rust/rust basic/0 - Переменные.md"
               }
             }
           },
@@ -162,10 +162,16 @@
   },
   "active": "7364874418fb3a47",
   "lastOpenFiles": [
+    "programing/rust/rust basic/2 - Изменение переменных.md",
+    "programing/rust/rust basic/1 - Базовые типы (Basic Types).md",
+    "programing/rust/rust basic/5 - Массивы (Arrays).md",
+    "programing/rust/rust basic/0 - Переменные.md",
+    "connor/Без названия.canvas",
+    "programing/go/массивы/1. Массивы.md",
+    "connor",
     "programing/go/массивы/9. Особенности работы со срезами.md",
     "programing/go/массивы/3. Срезы (слайсы, slices).md",
     "programing/go/массивы/2. Обращение к элементам массива. Индексы.md",
-    "programing/go/массивы/1. Массивы.md",
     "programing/go/массивы/6. Не много о длине массива и емкости среза.md",
     "programing/go/массивы/4. Оператор среза.md",
     "programing/go/логические операторы.md",
@@ -185,11 +191,7 @@
     "programing/программирование/Функциональное программирование(ФП).md",
     "programing/программирование/Сложность алгоритма.md",
     "Исправление go current file run.md",
-    "Краткая шпаргалка по сочетаниям клавиш в IntelliJ IDEA.md",
-    "Шпаргалка по командам Git на русском.md",
-    "programing/docker/build.md",
     "MindMap.canvas",
-    "programing/git/Как откатиться ну нужного commit.md",
     "NSTU_Project/map nstu project.canvas",
     "NSTU_Project/mindMap проекта.canvas",
     "programing/docker",
@@ -201,7 +203,6 @@
     "NSTU_Project",
     "programing/git",
     "programing",
-    "angular",
     "programing/java/images/original (1).png",
     "programing/java/images/original.png",
     "programing/java/Media Manager Java/Media Manager webapp.canvas",
