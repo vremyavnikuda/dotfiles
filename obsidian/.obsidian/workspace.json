@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programing/rust/rust basic/Переменные/3 - Преобразование базовых типов (Type Conversion) кастинг для примитивов.md",
+                "file": "programing/rust/rust basic/Переменные/9 - Переменные.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programing/rust/rust basic/Переменные/3 - Преобразование базовых типов (Type Conversion) кастинг для примитивов.md",
+                "file": "programing/rust/rust basic/Переменные/9 - Переменные.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programing/rust/rust basic/Переменные/3 - Преобразование базовых типов (Type Conversion) кастинг для примитивов.md",
+                "file": "programing/rust/rust basic/Переменные/9 - Переменные.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programing/rust/rust basic/Переменные/3 - Преобразование базовых типов (Type Conversion) кастинг для примитивов.md"
+                "file": "programing/rust/rust basic/Переменные/9 - Переменные.md"
               }
             }
           },
@@ -162,9 +162,13 @@
   },
   "active": "7364874418fb3a47",
   "lastOpenFiles": [
+    "programing/rust/rust basic/Переменные/7 - Shadowing.md",
+    "programing/rust/rust basic/Переменные/9 - Переменные.md",
+    "programing/rust/rust basic/Переменные/8 - Scope.md",
+    "Без названия.md",
+    "programing/rust/rust basic/Переменные/3 - Преобразование базовых типов (Type Conversion) кастинг для примитивов.md",
     "programing/rust/rust basic/Переменные/5 - Операции.md",
     "programing/rust/rust basic/Переменные/6 - Чтение пользовательского ввода.md",
-    "programing/rust/rust basic/Переменные/3 - Преобразование базовых типов (Type Conversion) кастинг для примитивов.md",
     "programing/rust/rust basic/Переменные/2 - Изменение переменных.md",
     "programing/rust/rust basic/Переменные/1 - Базовые типы (Basic Types).md",
     "programing/rust/rust basic/Переменные/0 - Переменные.md",
@@ -187,11 +191,7 @@
     "programing/go/100 вопросов по golang.md",
     "programing/go/Go Redis.md",
     "programing/go/массивы/8. Функция copy - копирование элементов среза.md",
-    "programing/go/массивы/7. Использование append для удаления элемента из среза.md",
-    "programing/go/массивы/5. Встроенные функции для работы со срезами.md",
-    "NSTU_Project/TT.md",
     "programing/go/массивы",
-    "programing/rust/rocket/Мапим url (get запросы).md",
     "MindMap.canvas",
     "NSTU_Project/map nstu project.canvas",
     "NSTU_Project/mindMap проекта.canvas",
