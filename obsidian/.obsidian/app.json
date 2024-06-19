@@ -1,4 +1,5 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "programing/java"
+  "attachmentFolderPath": "programing/java",
+  "showRibbon": true
 }

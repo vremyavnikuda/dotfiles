@@ -1,7 +1,8 @@
 {
   "accentColor": "",
-  "baseFontSize": 15,
+  "baseFontSize": 13,
   "theme": "obsidian",
-  "interfaceFontFamily": "Hack Nerd Font",
-  "baseFontSizeAction": true
+  "interfaceFontFamily": "Hack Nerd Font,0xProto Nerd Font",
+  "baseFontSizeAction": true,
+  "cssTheme": "Royal Velvet"
 }
