@@ -160,8 +160,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5a09a505fddf62ad",
+  "active": "a52d94bb46059ec6",
   "lastOpenFiles": [
+    "programming/программирование/тест.md",
+    "programming/программирование/Тема №5 Символьные массивы - строки.md",
+    "programming/программирование/Тема №4 Многомерные массивы - матрицы.md",
+    "programming/программирование/Тема №3 Массивы целых чисел.md",
+    "programming/программирование/Тема №2 Операторы цикла. Операторы передачи управления.md",
+    "programming/программирование/Тема 1 Операторы описания. Условные операторы. Тернарная операция.md",
     "programming/go/code samples/Дано натуральное число N. Выведите его представление в двоичном виде..md",
     "programming/go/code samples/Из натурального числа удалить заданную цифру..md",
     "programming/go/code samples/Напишите функцию, находящую наименьшее из четырех введённых в этой же функции чисел.md",
@@ -190,12 +196,6 @@
     "programming/go/массивы/3. Срезы (слайсы, slices).md",
     "programming/go/массивы/2. Обращение к элементам массива. Индексы.md",
     "programming/go/массивы/6. Не много о длине массива и емкости среза.md",
-    "programming/go/массивы/4. Оператор среза.md",
-    "programming/go/логические операторы.md",
-    "programming/go/Получить от пользователя ввод данных Scan() и Scanln().md",
-    "programming/go/условный оператор if.md",
-    "programming/go/Форматированный вывод.md",
-    "programming/go/Основные(базовые) типы данных Golang.md",
     "programming/go/массивы",
     "MindMap.canvas",
     "NSTU_Project(гавнопроект)/map nstu project.canvas",
