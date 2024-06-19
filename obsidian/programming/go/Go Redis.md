@@ -1,2 +1,2 @@
 #go #теория 
-https://redis.uptrace.dev/
+[redis](https://redis.uptrace.dev/)
