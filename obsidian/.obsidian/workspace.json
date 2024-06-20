@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/go/2.3 Указатели/Указатели.md",
+                "file": "programming/go/2.4 Структуры/2.4.5 Встраиваемые типы.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 211.5
   },
   "right": {
     "id": "1f93c43b845748f7",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/go/2.3 Указатели/Указатели.md",
+                "file": "programming/go/2.4 Структуры/2.4.5 Встраиваемые типы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/go/2.3 Указатели/Указатели.md",
+                "file": "programming/go/2.4 Структуры/2.4.5 Встраиваемые типы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/go/2.3 Указатели/Указатели.md"
+                "file": "programming/go/2.4 Структуры/2.4.5 Встраиваемые типы.md"
               }
             }
           },
@@ -178,11 +178,23 @@
   },
   "active": "09118fcdd8142880",
   "lastOpenFiles": [
+    "programming/go/2.4 Структуры/2.4.4 Методы.md",
+    "programming/go/2.4 Структуры/2.4.5 Встраиваемые типы.md",
+    "programming/go/2.4 Структуры/2.4.3 Поля.md",
+    "programming/go/2.4 Структуры/2.4.2 Инициализация.md",
+    "programming/go/2.4 Структуры/2.4.1 Структуры.md",
+    "Pasted image 20240619215942.png",
+    "Pasted image 20240620110932.png",
+    "Pasted image 20240620111232.png",
+    "Pasted image 20240620113042.png",
+    "Снимок экрана 2024-06-20 111405.png",
+    "Снимок экрана 2024-06-20 111305.png",
+    "programming/go/2.4 Структуры",
+    "programming/go/2.3 Указатели/Указатели.md",
     "programming/go/Go Redis.md",
     "programming/go/code samples/Напишите функцию, находящую наименьшее из четырех введённых в этой же функции чисел.md",
     "programming/go/code samples/Из натурального числа удалить заданную цифру..md",
     "programming/go/code samples/Дано натуральное число N. Выведите его представление в двоичном виде..md",
-    "programming/go/2.3 Указатели/Указатели.md",
     "programming/go/1.12 Массивы/1. Массивы.md",
     "programming/go/2.3 Указатели",
     "programming/go/1.12 Массивы/2. Обращение к элементам массива. Индексы.md",
@@ -193,16 +205,10 @@
     "programming/go/100 вопросов по golang.md",
     "programming/go/2.2 Package/Пакеты.md",
     "Снимок экрана 2024-06-19 223716.png",
-    "Pasted image 20240619215942.png",
     "programming/go/2.2 Package",
     "Pasted image 20240619215836.png",
     "Pasted image 20240619215705.png",
     "Снимок экрана 2024-06-19 220002.png",
-    "Снимок экрана 2024-06-19 215956.png",
-    "Снимок экрана 2024-06-19 215903.png",
-    "Снимок экрана 2024-06-19 215858.png",
-    "Снимок экрана 2024-06-19 215820.png",
-    "Снимок экрана 2024-06-19 215731.png",
     "programming/go/2.1 Функции/11.Область видимости.md",
     "programming/go/2.1 Функции/6.Task2.md",
     "programming/go/2.1 Функции/5.Task1.md",
@@ -211,12 +217,7 @@
     "programming/go/2.1 Функции/2.Параметры функции.md",
     "programming/go/2.1 Функции/1.Функции.md",
     "programming/go/2.1 Функции/9.Функции с переменным количеством параметров (аргументов).md",
-    "programming/go/2.1 Функции/10.Task5.md",
-    "programming/go/2.1 Функции/8.Task4.md",
-    "programming/go/2.1 Функции/7.Task3.md",
     "programming/go/2.1 Функции",
-    "programming/go/Форматированный вывод.md",
-    "programming/go/условный оператор if.md",
     "pomodoro",
     "MindMap.canvas",
     "Connor project/Без названия.canvas",
@@ -226,7 +227,6 @@
     "hydra",
     "programming/с++",
     "Без названия 1",
-    "programming/rust/rust basic/Переменные",
     "NSTU_Project(гавнопроект)/map nstu project.canvas",
     "NSTU_Project(гавнопроект)/mindMap проекта.canvas",
     "programming/java/Media Manager Java/Media Manager webapp.canvas"
