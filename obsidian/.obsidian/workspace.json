@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/go/2.5 Строки string/!!!Полезные функции для char.md",
+                "file": "programming/go/2.6 Обработка ошибок/2.6.5 Оператор defer.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#rust",
+                "query": "tag:#vaadin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/go/2.5 Строки string/!!!Полезные функции для char.md",
+                "file": "programming/go/2.6 Обработка ошибок/2.6.5 Оператор defer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/go/2.5 Строки string/!!!Полезные функции для char.md",
+                "file": "programming/go/2.6 Обработка ошибок/2.6.5 Оператор defer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/go/2.5 Строки string/!!!Полезные функции для char.md"
+                "file": "programming/go/2.6 Обработка ошибок/2.6.5 Оператор defer.md"
               }
             }
           },
@@ -196,35 +196,37 @@
   },
   "active": "02a5c53f56d3ca3a",
   "lastOpenFiles": [
-    "programming/go/2.5 Строки string/2.5.1 Функции для работы со строками.md",
-    "programming/go/2.5 Строки string/2.5 Строки (string).md",
-    "programming/go/2.5 Строки string/!!!Полезные функции для char.md",
-    "programming/go/2.5 Строки string/2.5.2 Байтовые срезы (byte).md",
-    "programming/go/2.5 Строки string/2.5.3 Срезы рун (rune).md",
-    "programming/go/2.5 Строки string/2.5.4 Unicode.md",
-    "programming/go/2.5 Строки string/2.5.5 Количество символов в строке.md",
-    "programming/rust/fn count_by.md",
+    "programming/java/Vaadin/vaadin (перенаправление по определенному url).md",
+    "Математический анализ/1. Введение.md",
     "NSTU_Project(гавнопроект)/TT.md",
-    "programming/rust/is_square.md",
-    "programming/go/1.12 Массивы/4. Оператор среза.md",
+    "programming/go/2.6 Обработка ошибок/2.6.3 Оператор panic.md",
+    "programming/go/2.6 Обработка ошибок/2.6.4 В чем преимущество значений ошибок Go по сравнению с исключениями.md",
+    "programming/go/2.6 Обработка ошибок/2.6.5 Оператор defer.md",
+    "programming/go/code samples/Обработка ошибок.md",
+    "programming/go/2.6 Обработка ошибок/2.6.1 Обработка ошибок.md",
+    "programming/go/Без названия",
+    "programming/go/2.6 Обработка ошибок/2.6.2 Создание ошибок.md",
+    "programming/rust/rust basic/Переменные/6 - Чтение пользовательского ввода.md",
+    "programming/go/2.1 Функции/7.Task3.md",
+    "programming/go/2.1 Функции/8.Task4.md",
+    "programming/go/2.1 Функции/10.Task5.md",
+    "angular/Автодополнение.md",
+    "angular/Время когда пользователь вошёл в систему.md",
+    "angular/Встраиваем компонент в кнопку.md",
+    "programming/go/code samples/Дано натуральное число N. Выведите его представление в двоичном виде..md",
+    "programming/go/code samples/Из натурального числа удалить заданную цифру..md",
+    "programming/rust/метод match.md",
+    "programming/go/code samples/Напишите функцию, находящую наименьшее из четырех введённых в этой же функции чисел.md",
+    "programming/java/java/junior/Операторы сравнения.md",
+    "programming/java/Spring/spring Аннотации/Основные аннотации Spring Framework в Java.md",
+    "programming/с++/Открытие текстового файла в C++.md",
+    "programming/java/java/junior/Переменные в java core.md",
+    "programming/java/java/junior/Получение данных от пользователя Scanner.md",
+    "programming/java/java/junior/размеры переменных.md",
+    "programming/go/2.6 Обработка ошибок",
     "Pasted image 20240619215836.png",
-    "programming/go/1.12 Массивы/9. Особенности работы со срезами.md",
-    "programming/rust/rust basic/Переменные/7 - Shadowing.md",
-    "programming/rust/rust basic/Переменные/9 - Переменные.md",
-    "programming/rust/fn count_sheep.md",
-    "Математический анализ/3. Множество действительных чисел.md",
-    "pomodoro/Таймер рабочего времени.md",
-    "programming/java/Домашний сервер.md",
-    "programming/go/Форматированный вывод.md",
-    "programming/java/road map java developer.md",
-    "programming/java/Media Manager Java/методы MediaManager/Исправить application.properties.md",
-    "programming/docker/build.md",
-    "Краткая шпаргалка по сочетаниям клавиш в IntelliJ IDEA.md",
-    "programming/java/Media Manager Java/методы MediaManager/Форма регистрации и таблица пользователей.md",
     "NSTU_Project(гавнопроект)/mindMap проекта.canvas",
     "NSTU_Project(гавнопроект)/map nstu project.canvas",
-    "programming/java/Media Manager Java/методы MediaManager/Восстановление пароля MediaManager.md",
-    "programming/go/2.2 Package/Пакеты.md",
     "дискретная математика",
     "programming/go/2.5 Строки string",
     "Pasted image 20240619215942.png",
@@ -245,8 +247,6 @@
     "Connor project/Без названия.canvas",
     "Без названия.canvas",
     "programming/go/code samples",
-    "только в крайнем случае",
-    "hydra",
     "programming/java/Media Manager Java/Media Manager webapp.canvas"
   ]
 }
