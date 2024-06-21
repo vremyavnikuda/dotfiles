@@ -4,48 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "08c8ae66f4a5fe0c",
-        "type": "split",
+        "id": "c2346141ba9b709a",
+        "type": "tabs",
+        "dimension": 79.6448087431694,
         "children": [
           {
-            "id": "850309cfa309e0fb",
-            "type": "tabs",
-            "dimension": 78.9795918367347,
-            "children": [
-              {
-                "id": "09118fcdd8142880",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "programming/go/2.5 Строки string/2.5.3 Срезы рун (rune).md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
+            "id": "02a5c53f56d3ca3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/go/2.5 Строки string/!!!Полезные функции для char.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "c2346141ba9b709a",
-            "type": "tabs",
-            "dimension": 21.020408163265305,
-            "children": [
-              {
-                "id": "e25e0eb08d090f4e",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "vertical"
+        ]
+      },
+      {
+        "id": "5d8c8a05febe810e",
+        "type": "tabs",
+        "dimension": 20.3551912568306,
+        "children": [
+          {
+            "id": "ee0a452aff6ad471",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#java",
+                "query": "tag:#rust",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/go/2.5 Строки string/2.5.3 Срезы рун (rune).md",
+                "file": "programming/go/2.5 Строки string/!!!Полезные функции для char.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/go/2.5 Строки string/2.5.3 Срезы рун (rune).md",
+                "file": "programming/go/2.5 Строки string/!!!Полезные функции для char.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/go/2.5 Строки string/2.5.3 Срезы рун (rune).md"
+                "file": "programming/go/2.5 Строки string/!!!Полезные функции для char.md"
               }
             }
           },
@@ -201,36 +194,39 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "09118fcdd8142880",
+  "active": "02a5c53f56d3ca3a",
   "lastOpenFiles": [
-    "programming/go/2.5 Строки string/2.5.2 Байтовые срезы (byte).md",
-    "programming/go/2.5 Строки string/2.5.3 Срезы рун (rune).md",
-    "programming/go/1.12 Массивы/2. Обращение к элементам массива. Индексы.md",
-    "programming/go/условный оператор if.md",
-    "programming/go/Форматированный вывод.md",
-    "programming/go/Полезные команды для работы с пакетами golang.md",
-    "programming/go/Основные(базовые) типы данных Golang.md",
-    "programming/go/Оператор switch.md",
-    "programming/go/логические операторы.md",
-    "programming/go/100 вопросов по golang.md",
-    "programming/go/2.4 Структуры/2.4.5 Встраиваемые типы.md",
-    "programming/программирование/Функциональное программирование(ФП).md",
-    "programming/программирование/тест.md",
-    "programming/программирование/Тема №5 Символьные массивы - строки.md",
-    "programming/программирование/Тема №4 Многомерные массивы - матрицы.md",
-    "programming/программирование/Тема №3 Массивы целых чисел.md",
-    "programming/программирование/Тема №2 Операторы цикла. Операторы передачи управления.md",
-    "programming/программирование/Тема 1 Операторы описания. Условные операторы. Тернарная операция.md",
-    "programming/программирование/Сложность алгоритма.md",
-    "programming/с++/Открытие текстового файла в C++.md",
-    "дискретная математика/Основы дискретной математики.md",
-    "дискретная математика",
     "programming/go/2.5 Строки string/2.5.1 Функции для работы со строками.md",
     "programming/go/2.5 Строки string/2.5 Строки (string).md",
+    "programming/go/2.5 Строки string/!!!Полезные функции для char.md",
+    "programming/go/2.5 Строки string/2.5.2 Байтовые срезы (byte).md",
+    "programming/go/2.5 Строки string/2.5.3 Срезы рун (rune).md",
+    "programming/go/2.5 Строки string/2.5.4 Unicode.md",
+    "programming/go/2.5 Строки string/2.5.5 Количество символов в строке.md",
+    "programming/rust/fn count_by.md",
+    "NSTU_Project(гавнопроект)/TT.md",
+    "programming/rust/is_square.md",
+    "programming/go/1.12 Массивы/4. Оператор среза.md",
+    "Pasted image 20240619215836.png",
+    "programming/go/1.12 Массивы/9. Особенности работы со срезами.md",
+    "programming/rust/rust basic/Переменные/7 - Shadowing.md",
+    "programming/rust/rust basic/Переменные/9 - Переменные.md",
+    "programming/rust/fn count_sheep.md",
+    "Математический анализ/3. Множество действительных чисел.md",
+    "pomodoro/Таймер рабочего времени.md",
+    "programming/java/Домашний сервер.md",
+    "programming/go/Форматированный вывод.md",
+    "programming/java/road map java developer.md",
+    "programming/java/Media Manager Java/методы MediaManager/Исправить application.properties.md",
+    "programming/docker/build.md",
+    "Краткая шпаргалка по сочетаниям клавиш в IntelliJ IDEA.md",
+    "programming/java/Media Manager Java/методы MediaManager/Форма регистрации и таблица пользователей.md",
+    "NSTU_Project(гавнопроект)/mindMap проекта.canvas",
+    "NSTU_Project(гавнопроект)/map nstu project.canvas",
+    "programming/java/Media Manager Java/методы MediaManager/Восстановление пароля MediaManager.md",
+    "programming/go/2.2 Package/Пакеты.md",
+    "дискретная математика",
     "programming/go/2.5 Строки string",
-    "programming/go/2.4 Структуры/2.4.4 Методы.md",
-    "programming/go/2.4 Структуры/2.4.3 Поля.md",
-    "programming/go/2.4 Структуры/2.4.2 Инициализация.md",
     "Pasted image 20240619215942.png",
     "Pasted image 20240620110932.png",
     "Pasted image 20240620111232.png",
@@ -241,7 +237,6 @@
     "programming/go/2.3 Указатели",
     "Снимок экрана 2024-06-19 223716.png",
     "programming/go/2.2 Package",
-    "Pasted image 20240619215836.png",
     "Pasted image 20240619215705.png",
     "Снимок экрана 2024-06-19 220002.png",
     "programming/go/2.1 Функции",
@@ -252,8 +247,6 @@
     "programming/go/code samples",
     "только в крайнем случае",
     "hydra",
-    "NSTU_Project(гавнопроект)/map nstu project.canvas",
-    "NSTU_Project(гавнопроект)/mindMap проекта.canvas",
     "programming/java/Media Manager Java/Media Manager webapp.canvas"
   ]
 }

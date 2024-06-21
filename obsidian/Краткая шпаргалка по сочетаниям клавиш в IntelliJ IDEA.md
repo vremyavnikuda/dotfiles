@@ -1,4 +1,4 @@
-#ide #IntelliJIDEA
+#ide #IntelliJIDEA #полезное #junior 
 **Редактирование:**
 
 |                       |                                                           |

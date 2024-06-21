@@ -1,3 +1,4 @@
+#rust #примерыкода #теория #junior 
 ```rust
 pub(crate) fn is_square(n: i64) -> bool {  
     if n < 0 {  
