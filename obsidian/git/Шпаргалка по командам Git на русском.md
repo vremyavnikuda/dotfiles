@@ -1,4 +1,4 @@
-#git #junior 
+#git #junior #полезное 
 echo "# название" >> README.md - создание файла README.md
 
 git init - инициализация репозитория
