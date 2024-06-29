@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/ide/neovim.md",
+                "file": "programming/go/code samples/Возможные методы создания map.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/ide/neovim.md",
+                "file": "programming/go/code samples/Возможные методы создания map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/ide/neovim.md",
+                "file": "programming/go/code samples/Возможные методы создания map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/ide/neovim.md"
+                "file": "programming/go/code samples/Возможные методы создания map.md"
               }
             }
           },
@@ -196,6 +196,9 @@
   },
   "active": "02a5c53f56d3ca3a",
   "lastOpenFiles": [
+    "programming/go/3.1 Отображения (Map)/3.1.2  Работа с отображениями.md",
+    "programming/go/code samples/Возможные методы создания map.md",
+    "programming/go/3.1 Отображения (Map)/3.1.1 Отображения, по другому - map, карта.md",
     "programming/go/2.6 Обработка ошибок/2.6.1 Обработка ошибок.md",
     "programming/ide/neovim.md",
     "programming/ide",
@@ -221,9 +224,6 @@
     "programming/rust/rust basic/Переменные/6 - Чтение пользовательского ввода.md",
     "programming/go/2.1 Функции/7.Task3.md",
     "programming/go/2.1 Функции/8.Task4.md",
-    "programming/go/2.1 Функции/10.Task5.md",
-    "angular/Автодополнение.md",
-    "angular/Время когда пользователь вошёл в систему.md",
     "programming/go/2.6 Обработка ошибок",
     "Pasted image 20240619215836.png",
     "NSTU_Project(гавнопроект)/mindMap проекта.canvas",
