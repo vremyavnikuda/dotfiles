@@ -6,7 +6,7 @@
       {
         "id": "c2346141ba9b709a",
         "type": "tabs",
-        "dimension": 79.6448087431694,
+        "dimension": 72.01201201201202,
         "children": [
           {
             "id": "02a5c53f56d3ca3a",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/go/code samples/Возможные методы создания map.md",
+                "file": "programming/go/4. Преобразование типов данных/Преобразование типов данных.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
       {
         "id": "5d8c8a05febe810e",
         "type": "tabs",
-        "dimension": 20.3551912568306,
+        "dimension": 27.98798798798799,
         "children": [
           {
             "id": "ee0a452aff6ad471",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/go/code samples/Возможные методы создания map.md",
+                "file": "programming/go/4. Преобразование типов данных/Преобразование типов данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/go/code samples/Возможные методы создания map.md",
+                "file": "programming/go/4. Преобразование типов данных/Преобразование типов данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/go/code samples/Возможные методы создания map.md"
+                "file": "programming/go/4. Преобразование типов данных/Преобразование типов данных.md"
               }
             }
           },
@@ -196,34 +196,37 @@
   },
   "active": "02a5c53f56d3ca3a",
   "lastOpenFiles": [
-    "programming/go/3.1 Отображения (Map)/3.1.2  Работа с отображениями.md",
-    "programming/go/code samples/Возможные методы создания map.md",
+    "programming/go/1 Типами данных/6. Значение по умолчанию.md",
+    "programming/go/4. Преобразование типов данных/Преобразование типов данных.md",
+    "programming/go/4. Преобразование типов данных",
+    "programming/go/Новая папка/Преобразование типов данных.md",
+    "programming/go/Новая папка/Go_Type_Conversions_RU.md",
+    "programming/go/Новая папка",
+    "programming/go/1 Типами данных/4. Тип bool.md",
+    "programming/go/1 Типами данных/3. Комплексные числа.md",
+    "programming/go/1 Типами данных/5. Строки.md",
+    "programming/go/1 Типами данных/7. Неявная типизация ​​.md",
+    "programming/go/1 Типами данных/Go_Implicit_RU.md",
+    "programming/go/1 Типами данных/Go_Defaults_RU.md",
+    "programming/go/1 Типами данных/Go_Strings_RU.md",
+    "programming/go/1 Типами данных/Go_Bool_RU.md",
+    "programming/go/1 Типами данных/2. Числа с плавающей точкой.md",
+    "programming/go/1 Типами данных/Go_Complex_RU.md",
+    "programming/go/1 Типами данных/1. Целочисленные типы.md",
+    "programming/go/1 Типами данных/Go_Map_Functions_RU.md",
+    "programming/go/!ВАЖНО/Go_Map_Functions_RU.md",
+    "programming/go/!ВАЖНО/Go_Array_All_Methods.md",
+    "programming/go/1/Без названия.md",
+    "programming/go/1 Типами данных",
+    "programming/go/!ВАЖНО/Указатели Golang.md",
+    "programming/go/!ВАЖНО/Go_Pointers.md",
+    "programming/go/!ВАЖНО/Go_Pointers_RU.md",
+    "programming/go/!ВАЖНО/Go_Map_All_Methods.md",
     "programming/go/3.1 Отображения (Map)/3.1.1 Отображения, по другому - map, карта.md",
-    "programming/go/2.6 Обработка ошибок/2.6.1 Обработка ошибок.md",
-    "programming/ide/neovim.md",
-    "programming/ide",
-    "programming/go/2.6 Обработка ошибок/2.6.2 Создание ошибок.md",
-    "programming/go/2.6 Обработка ошибок/2.6.3 Оператор panic.md",
-    "programming/go/2.6 Обработка ошибок/2.6.4 В чем преимущество значений ошибок Go по сравнению с исключениями.md",
-    "programming/go/2.6 Обработка ошибок/2.6.5 Оператор defer.md",
-    "programming/go/2.5 Строки string/2.5.2 Байтовые срезы (byte).md",
-    "programming/go/2.5 Строки string/2.5.3 Срезы рун (rune).md",
-    "programming/go/2.5 Строки string/2.5.4 Unicode.md",
-    "programming/go/2.5 Строки string/2.5.5 Количество символов в строке.md",
-    "programming/go/2.5 Строки string/!!!Полезные функции для char.md",
-    "programming/go/2.5 Строки string/2.5.1 Функции для работы со строками.md",
-    "programming/go/2.5 Строки string/2.5 Строки (string).md",
-    "programming/go/code samples/Дано натуральное число N. Выведите его представление в двоичном виде..md",
+    "programming/go/3.1 Отображения (Map)/3.1.2  Работа с отображениями.md",
     "programming/go/code samples/Обработка ошибок.md",
-    "programming/go/code samples/Напишите функцию, находящую наименьшее из четырех введённых в этой же функции чисел.md",
-    "programming/go/code samples/Из натурального числа удалить заданную цифру..md",
-    "programming/java/Vaadin/vaadin (перенаправление по определенному url).md",
-    "Математический анализ/1. Введение.md",
-    "NSTU_Project(гавнопроект)/TT.md",
-    "programming/go/Без названия",
-    "programming/rust/rust basic/Переменные/6 - Чтение пользовательского ввода.md",
-    "programming/go/2.1 Функции/7.Task3.md",
-    "programming/go/2.1 Функции/8.Task4.md",
+    "programming/go/!ВАЖНО",
+    "programming/ide",
     "programming/go/2.6 Обработка ошибок",
     "Pasted image 20240619215836.png",
     "NSTU_Project(гавнопроект)/mindMap проекта.canvas",
@@ -239,11 +242,8 @@
     "programming/go/2.4 Структуры",
     "programming/go/2.3 Указатели",
     "Снимок экрана 2024-06-19 223716.png",
-    "programming/go/2.2 Package",
     "Pasted image 20240619215705.png",
     "Снимок экрана 2024-06-19 220002.png",
-    "programming/go/2.1 Функции",
-    "pomodoro",
     "MindMap.canvas",
     "Connor project/Без названия.canvas",
     "Без названия.canvas",
