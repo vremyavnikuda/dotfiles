@@ -6,7 +6,7 @@
       {
         "id": "c2346141ba9b709a",
         "type": "tabs",
-        "dimension": 72.01201201201202,
+        "dimension": 72.01201201201201,
         "children": [
           {
             "id": "02a5c53f56d3ca3a",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/go/4. Преобразование типов данных/Преобразование типов данных.md",
+                "file": "programming/rust/Junior/1.База/1.1 Типы данных/1.1.2 Продвинутые типы данных.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
       {
         "id": "5d8c8a05febe810e",
         "type": "tabs",
-        "dimension": 27.98798798798799,
+        "dimension": 27.987987987987985,
         "children": [
           {
             "id": "ee0a452aff6ad471",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/go/4. Преобразование типов данных/Преобразование типов данных.md",
+                "file": "programming/rust/Junior/1.База/1.1 Типы данных/1.1.2 Продвинутые типы данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/go/4. Преобразование типов данных/Преобразование типов данных.md",
+                "file": "programming/rust/Junior/1.База/1.1 Типы данных/1.1.2 Продвинутые типы данных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/go/4. Преобразование типов данных/Преобразование типов данных.md"
+                "file": "programming/rust/Junior/1.База/1.1 Типы данных/1.1.2 Продвинутые типы данных.md"
               }
             }
           },
@@ -186,16 +186,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Граф": false,
-      "switcher:Меню быстрого перехода": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "02a5c53f56d3ca3a",
   "lastOpenFiles": [
+    "programming/rust/Junior/1.База/1.1 Типы данных/1.1.1.  Первичные типы данных Rust.md",
+    "programming/rust/Junior/1.База/1.1 Типы данных/1.1.2 Продвинутые типы данных.md",
+    "programming/rust/fn count_sheep.md",
+    "programming/rust/Junior/1.База/1.1 Типы данных",
+    "programming/rust/Junior/1.База",
+    "programming/rust/Junior",
+    "programming/rust/fn count_by.md",
+    "programming/rust/Строки в Rust.md",
+    "programming/rust/метод match.md",
+    "programming/rust/Использование super и self в модулях Rust.md",
+    "programming/rust/Использование dbg!() вместо println!().md",
+    "programming/rust/Индексация строк в Rust.md",
+    "programming/rust/Векторы в rust  Хранения списка значения.md",
+    "programming/rust/🚫 Избегайте ненужного клонирования.md",
+    "programming/go/4. Преобразование типов данных/Преобразование типов данных.md",
     "programming/go/code samples/Возможные методы создания map.md",
     "programming/go/code samples/Дано натуральное число N. Выведите его представление в двоичном виде..md",
     "programming/go/code samples/Из натурального числа удалить заданную цифру..md",
@@ -204,7 +219,6 @@
     "programming/go/!ВАЖНО/Go_Map_All_Methods.md",
     "programming/go/!ВАЖНО/Go_Array_All_Methods.md",
     "programming/go/!ВАЖНО/Указатели Golang.md",
-    "programming/go/4. Преобразование типов данных/Преобразование типов данных.md",
     "programming/go/1 Типами данных/6. Значение по умолчанию.md",
     "programming/go/4. Преобразование типов данных",
     "programming/go/Новая папка/Преобразование типов данных.md",
@@ -213,17 +227,6 @@
     "programming/go/1 Типами данных/4. Тип bool.md",
     "programming/go/1 Типами данных/3. Комплексные числа.md",
     "programming/go/1 Типами данных/5. Строки.md",
-    "programming/go/1 Типами данных/7. Неявная типизация ​​.md",
-    "programming/go/1 Типами данных/Go_Implicit_RU.md",
-    "programming/go/1 Типами данных/Go_Defaults_RU.md",
-    "programming/go/1 Типами данных/Go_Strings_RU.md",
-    "programming/go/1 Типами данных/Go_Bool_RU.md",
-    "programming/go/1 Типами данных/2. Числа с плавающей точкой.md",
-    "programming/go/1 Типами данных/Go_Complex_RU.md",
-    "programming/go/1 Типами данных/1. Целочисленные типы.md",
-    "programming/go/1 Типами данных/Go_Map_Functions_RU.md",
-    "programming/go/!ВАЖНО/Go_Map_Functions_RU.md",
-    "programming/go/1/Без названия.md",
     "programming/go/1 Типами данных",
     "programming/go/!ВАЖНО",
     "programming/ide",
@@ -232,15 +235,12 @@
     "NSTU_Project(гавнопроект)/mindMap проекта.canvas",
     "NSTU_Project(гавнопроект)/map nstu project.canvas",
     "дискретная математика",
-    "programming/go/2.5 Строки string",
     "Pasted image 20240619215942.png",
     "Pasted image 20240620110932.png",
     "Pasted image 20240620111232.png",
     "Pasted image 20240620113042.png",
     "Снимок экрана 2024-06-20 111405.png",
     "Снимок экрана 2024-06-20 111305.png",
-    "programming/go/2.4 Структуры",
-    "programming/go/2.3 Указатели",
     "Снимок экрана 2024-06-19 223716.png",
     "Pasted image 20240619215705.png",
     "Снимок экрана 2024-06-19 220002.png",
