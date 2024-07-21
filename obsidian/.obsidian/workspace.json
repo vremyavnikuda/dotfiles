@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/rust/Junior/1.База/1.1 Типы данных/1.1.2 Продвинутые типы данных.md",
+                "file": "programming/rust/Inrerest/Почему не стоит использовать `as` в Rust.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/rust/Junior/1.База/1.1 Типы данных/1.1.2 Продвинутые типы данных.md",
+                "file": "programming/rust/Inrerest/Почему не стоит использовать `as` в Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/rust/Junior/1.База/1.1 Типы данных/1.1.2 Продвинутые типы данных.md",
+                "file": "programming/rust/Inrerest/Почему не стоит использовать `as` в Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/rust/Junior/1.База/1.1 Типы данных/1.1.2 Продвинутые типы данных.md"
+                "file": "programming/rust/Inrerest/Почему не стоит использовать `as` в Rust.md"
               }
             }
           },
@@ -196,8 +196,10 @@
   },
   "active": "02a5c53f56d3ca3a",
   "lastOpenFiles": [
-    "programming/rust/Junior/1.База/1.1 Типы данных/1.1.1.  Первичные типы данных Rust.md",
     "programming/rust/Junior/1.База/1.1 Типы данных/1.1.2 Продвинутые типы данных.md",
+    "programming/rust/Inrerest/Почему не стоит использовать `as` в Rust.md",
+    "programming/rust/Inrerest",
+    "programming/rust/Junior/1.База/1.1 Типы данных/1.1.1.  Первичные типы данных Rust.md",
     "programming/rust/fn count_sheep.md",
     "programming/rust/Junior/1.База/1.1 Типы данных",
     "programming/rust/Junior/1.База",
@@ -226,7 +228,6 @@
     "programming/go/Новая папка",
     "programming/go/1 Типами данных/4. Тип bool.md",
     "programming/go/1 Типами данных/3. Комплексные числа.md",
-    "programming/go/1 Типами данных/5. Строки.md",
     "programming/go/1 Типами данных",
     "programming/go/!ВАЖНО",
     "programming/ide",
@@ -234,7 +235,6 @@
     "Pasted image 20240619215836.png",
     "NSTU_Project(гавнопроект)/mindMap проекта.canvas",
     "NSTU_Project(гавнопроект)/map nstu project.canvas",
-    "дискретная математика",
     "Pasted image 20240619215942.png",
     "Pasted image 20240620110932.png",
     "Pasted image 20240620111232.png",
