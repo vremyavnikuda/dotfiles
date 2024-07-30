@@ -28,6 +28,9 @@ __export(main_exports, {
 });
 module.exports = __toCommonJS(main_exports);
 var import_obsidian = require("obsidian");
+function isCanvasGroupData(node) {
+  return (node == null ? void 0 : node.type) === "group";
+}
 function nodeBondingBoxContains(outerNode, innerNode) {
   return outerNode.x <= innerNode.x && outerNode.x + outerNode.width >= innerNode.x + innerNode.width && outerNode.y <= innerNode.y && outerNode.y + outerNode.height >= innerNode.y + innerNode.height;
 }
@@ -46,15 +49,15 @@ function showOnlyEdges(canvas, idsToShow) {
   for (const edge of edges) {
     if (idsToShow === void 0 || idsToShow.has(edge.id)) {
       edge.lineGroupEl.style.display = "";
-      edge.markerGroupEl.style.display = "";
+      edge.lineEndGroupEl.style.display = "";
     } else {
       edge.lineGroupEl.style.display = "none";
-      edge.markerGroupEl.style.display = "none";
+      edge.lineEndGroupEl.style.display = "none";
     }
   }
 }
 function getGroupsFor(allNodes, nonGroupNodes) {
-  return allNodes.filter((x) => x.type === "group" && nonGroupNodes.some((fn) => nodeBondingBoxContains(x, fn)));
+  return allNodes.filter((x) => isCanvasGroupData(x) && nonGroupNodes.some((fn) => nodeBondingBoxContains(x, fn)));
 }
 function getEdgesWhereBothNodesInSet(allEdges, nodeIds) {
   return allEdges.filter((edge) => nodeIds.has(edge.fromNode) && nodeIds.has(edge.toNode));
@@ -177,7 +180,36 @@ var CanvasFilterPlugin = class extends import_obsidian.Plugin {
           const edge = canvas.edges.get(selected.id);
           if (edge) {
             edge.lineGroupEl.style.display = "none";
-            edge.markerGroupEl.style.display = "none";
+            edge.lineEndGroupEl.style.display = "none";
+          }
+        }
+        canvas.deselectAll();
+      })
+    });
+    this.addCommand({
+      id: "show-hide-connected",
+      name: "selected with connections HIDE",
+      checkCallback: this.ifActiveViewIsCanvas((canvas, canvasData) => {
+        const selection = Array.from(canvas.selection);
+        if (selection.length === 0) {
+          new import_obsidian.Notice("Please select at least one node");
+          return;
+        }
+        for (const selected of selection) {
+          const node = canvas.nodes.get(selected.id);
+          if (node) {
+            node.nodeEl.hide();
+            const connections = canvasData.edges.filter((x) => x.fromNode === node.id || x.toNode === node.id);
+            for (const connection of connections) {
+              const edge2 = canvas.edges.get(connection.id);
+              edge2.lineGroupEl.style.display = "none";
+              edge2.lineEndGroupEl.style.display = "none";
+            }
+          }
+          const edge = canvas.edges.get(selected.id);
+          if (edge) {
+            edge.lineGroupEl.style.display = "none";
+            edge.lineEndGroupEl.style.display = "none";
           }
         }
         canvas.deselectAll();
