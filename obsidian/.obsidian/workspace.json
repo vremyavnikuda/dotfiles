@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Docker - установка arch linux.md",
+                "file": "linux/Ошибка запуска.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/Docker - установка arch linux.md",
+                "file": "linux/Ошибка запуска.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/Docker - установка arch linux.md",
+                "file": "linux/Ошибка запуска.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/Docker - установка arch linux.md"
+                "file": "linux/Ошибка запуска.md"
               }
             }
           },
@@ -197,6 +197,8 @@
   "active": "02a5c53f56d3ca3a",
   "lastOpenFiles": [
     "linux/install rust ubuntu.md",
+    "linux/Ошибка запуска.md",
+    "linux/Docker - установка arch linux.md",
     "programming/rust/Inrerest/Почему не стоит использовать `as` в Rust.md",
     "programming/rust/Junior/1.База/1.1 Типы данных/1.1.2 Продвинутые типы данных.md",
     "programming/rust/Inrerest",
@@ -225,9 +227,7 @@
     "programming/go/1 Типами данных/6. Значение по умолчанию.md",
     "programming/go/4. Преобразование типов данных",
     "programming/go/Новая папка/Преобразование типов данных.md",
-    "programming/go/Новая папка/Go_Type_Conversions_RU.md",
     "programming/go/Новая папка",
-    "programming/go/1 Типами данных/4. Тип bool.md",
     "programming/go/1 Типами данных",
     "programming/go/!ВАЖНО",
     "programming/ide",
