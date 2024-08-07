@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Ошибка запуска.md",
+                "file": "linux/install rust ubuntu.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 344.5
   },
   "right": {
     "id": "1f93c43b845748f7",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/Ошибка запуска.md",
+                "file": "linux/install rust ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/Ошибка запуска.md",
+                "file": "linux/install rust ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/Ошибка запуска.md"
+                "file": "linux/install rust ubuntu.md"
               }
             }
           },
@@ -196,9 +196,23 @@
   },
   "active": "02a5c53f56d3ca3a",
   "lastOpenFiles": [
+    "programming/go/2.5 Строки string/!!!Полезные функции для char.md",
+    "programming/go/1 Типами данных/7. Неявная типизация ​​.md",
+    "linux/Настройка принтера Xerox Phaser 3320 Arch Linux.md",
+    "linux/Setup Bluetooth on Arch Linux.md",
     "linux/install rust ubuntu.md",
-    "linux/Ошибка запуска.md",
     "linux/Docker - установка arch linux.md",
+    "linux/Установка i3 и настройка.md",
+    "linux/Установка golang.md",
+    "linux/Установка пакетов Arch Linux.md",
+    "linux/Распаковать в нужную папку архив.md",
+    "linux/Ошибка запуска.md",
+    "programming/go/1.12 Массивы/5. Встроенные функции для работы со срезами.md",
+    "programming/go/1.12 Массивы/6. Не много о длине массива и емкости среза.md",
+    "programming/go/1.12 Массивы/7. Использование append для удаления элемента из среза.md",
+    "programming/go/1.12 Массивы/3. Срезы (слайсы, slices).md",
+    "programming/go/1.12 Массивы/2. Обращение к элементам массива. Индексы.md",
+    "programming/go/1.12 Массивы/1. Массивы.md",
     "programming/rust/Inrerest/Почему не стоит использовать `as` в Rust.md",
     "programming/rust/Junior/1.База/1.1 Типы данных/1.1.2 Продвинутые типы данных.md",
     "programming/rust/Inrerest",
@@ -212,21 +226,7 @@
     "programming/rust/метод match.md",
     "programming/rust/Использование super и self в модулях Rust.md",
     "programming/rust/Использование dbg!() вместо println!().md",
-    "programming/rust/Индексация строк в Rust.md",
-    "programming/rust/Векторы в rust  Хранения списка значения.md",
-    "programming/rust/🚫 Избегайте ненужного клонирования.md",
-    "programming/go/4. Преобразование типов данных/Преобразование типов данных.md",
-    "programming/go/code samples/Возможные методы создания map.md",
-    "programming/go/code samples/Дано натуральное число N. Выведите его представление в двоичном виде..md",
-    "programming/go/code samples/Из натурального числа удалить заданную цифру..md",
-    "programming/go/code samples/Обработка ошибок.md",
-    "programming/go/code samples/Напишите функцию, находящую наименьшее из четырех введённых в этой же функции чисел.md",
-    "programming/go/!ВАЖНО/Go_Map_All_Methods.md",
-    "programming/go/!ВАЖНО/Go_Array_All_Methods.md",
-    "programming/go/!ВАЖНО/Указатели Golang.md",
-    "programming/go/1 Типами данных/6. Значение по умолчанию.md",
     "programming/go/4. Преобразование типов данных",
-    "programming/go/Новая папка/Преобразование типов данных.md",
     "programming/go/Новая папка",
     "programming/go/1 Типами данных",
     "programming/go/!ВАЖНО",
