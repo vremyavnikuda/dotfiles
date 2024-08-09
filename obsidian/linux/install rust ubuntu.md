@@ -1,4 +1,4 @@
-```sh
+ду```sh
 sudo apt update
 ```
 ```sh
