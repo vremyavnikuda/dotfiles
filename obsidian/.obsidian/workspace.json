@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/install rust ubuntu.md",
+                "file": "windows/activation office.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/install rust ubuntu.md",
+                "file": "windows/activation office.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/install rust ubuntu.md",
+                "file": "windows/activation office.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/install rust ubuntu.md"
+                "file": "windows/activation office.md"
               }
             }
           },
@@ -196,11 +196,13 @@
   },
   "active": "02a5c53f56d3ca3a",
   "lastOpenFiles": [
+    "linux/install rust ubuntu.md",
+    "windows/activation office.md",
+    "windows",
     "programming/go/2.5 Строки string/!!!Полезные функции для char.md",
     "programming/go/1 Типами данных/7. Неявная типизация ​​.md",
     "linux/Настройка принтера Xerox Phaser 3320 Arch Linux.md",
     "linux/Setup Bluetooth on Arch Linux.md",
-    "linux/install rust ubuntu.md",
     "linux/Docker - установка arch linux.md",
     "linux/Установка i3 и настройка.md",
     "linux/Установка golang.md",
@@ -225,13 +227,11 @@
     "programming/rust/Строки в Rust.md",
     "programming/rust/метод match.md",
     "programming/rust/Использование super и self в модулях Rust.md",
-    "programming/rust/Использование dbg!() вместо println!().md",
     "programming/go/4. Преобразование типов данных",
     "programming/go/Новая папка",
     "programming/go/1 Типами данных",
     "programming/go/!ВАЖНО",
     "programming/ide",
-    "programming/go/2.6 Обработка ошибок",
     "Pasted image 20240619215836.png",
     "NSTU_Project(гавнопроект)/mindMap проекта.canvas",
     "NSTU_Project(гавнопроект)/map nstu project.canvas",
