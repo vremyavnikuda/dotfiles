@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "windows/activation office.md",
+                "file": "linux/Распаковать в нужную папку архив.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "windows/activation office.md",
+                "file": "linux/Распаковать в нужную папку архив.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "windows/activation office.md",
+                "file": "linux/Распаковать в нужную папку архив.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "windows/activation office.md"
+                "file": "linux/Распаковать в нужную папку архив.md"
               }
             }
           },
@@ -196,8 +196,9 @@
   },
   "active": "02a5c53f56d3ca3a",
   "lastOpenFiles": [
-    "linux/install rust ubuntu.md",
+    "linux/Установка пакетов Arch Linux.md",
     "windows/activation office.md",
+    "linux/install rust ubuntu.md",
     "windows",
     "programming/go/2.5 Строки string/!!!Полезные функции для char.md",
     "programming/go/1 Типами данных/7. Неявная типизация ​​.md",
@@ -206,7 +207,6 @@
     "linux/Docker - установка arch linux.md",
     "linux/Установка i3 и настройка.md",
     "linux/Установка golang.md",
-    "linux/Установка пакетов Arch Linux.md",
     "linux/Распаковать в нужную папку архив.md",
     "linux/Ошибка запуска.md",
     "programming/go/1.12 Массивы/5. Встроенные функции для работы со срезами.md",
