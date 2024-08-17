@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/install rust ubuntu.md",
+                "file": "linux/install ubuntu.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/install rust ubuntu.md",
+                "file": "linux/install ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/install rust ubuntu.md",
+                "file": "linux/install ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/install rust ubuntu.md"
+                "file": "linux/install ubuntu.md"
               }
             }
           },
@@ -196,8 +196,8 @@
   },
   "active": "02a5c53f56d3ca3a",
   "lastOpenFiles": [
+    "linux/install ubuntu.md",
     "linux/Setup Bluetooth on Arch Linux.md",
-    "linux/install rust ubuntu.md",
     "linux/Docker - установка arch linux.md",
     "linux/Установка golang.md",
     "linux/Ошибка запуска.md",
