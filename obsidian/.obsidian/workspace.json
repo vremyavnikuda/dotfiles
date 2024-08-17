@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Распаковать в нужную папку архив.md",
+                "file": "linux/install rust ubuntu.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/Распаковать в нужную папку архив.md",
+                "file": "linux/install rust ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/Распаковать в нужную папку архив.md",
+                "file": "linux/install rust ubuntu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/Распаковать в нужную папку архив.md"
+                "file": "linux/install rust ubuntu.md"
               }
             }
           },
@@ -196,19 +196,19 @@
   },
   "active": "02a5c53f56d3ca3a",
   "lastOpenFiles": [
+    "linux/Setup Bluetooth on Arch Linux.md",
+    "linux/install rust ubuntu.md",
+    "linux/Docker - установка arch linux.md",
+    "linux/Установка golang.md",
+    "linux/Ошибка запуска.md",
+    "linux/Настройка принтера Xerox Phaser 3320 Arch Linux.md",
+    "linux/Распаковать в нужную папку архив.md",
     "linux/Установка пакетов Arch Linux.md",
     "windows/activation office.md",
-    "linux/install rust ubuntu.md",
     "windows",
     "programming/go/2.5 Строки string/!!!Полезные функции для char.md",
     "programming/go/1 Типами данных/7. Неявная типизация ​​.md",
-    "linux/Настройка принтера Xerox Phaser 3320 Arch Linux.md",
-    "linux/Setup Bluetooth on Arch Linux.md",
-    "linux/Docker - установка arch linux.md",
     "linux/Установка i3 и настройка.md",
-    "linux/Установка golang.md",
-    "linux/Распаковать в нужную папку архив.md",
-    "linux/Ошибка запуска.md",
     "programming/go/1.12 Массивы/5. Встроенные функции для работы со срезами.md",
     "programming/go/1.12 Массивы/6. Не много о длине массива и емкости среза.md",
     "programming/go/1.12 Массивы/7. Использование append для удаления элемента из среза.md",
