@@ -1,9 +1,0 @@
-<application>
-  <component name="IgnoredPluginSuggestions">
-    <option name="pluginIds">
-      <list>
-        <option value="com.poratu.idea.plugins.tomcat" />
-      </list>
-    </option>
-  </component>
-</application>
