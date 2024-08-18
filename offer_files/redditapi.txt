@@ -1,5 +1,0 @@
- client_id="TpYH5poiyJswmUTUnYg1yw",
- client_secret="XLmyyX6_EzSsIkaNlM_ViGtRTg_pqw",
- username="vremya_v_nikuda",
- password="m1S0BhK3w",
- user_agent="<console:media_manager:1.0>")

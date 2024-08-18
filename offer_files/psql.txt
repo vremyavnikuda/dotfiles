@@ -1,6 +1,0 @@
-name:
-@mail:hopperplayer0@gmail.com
-login:
-password:25101989
-port:
-master password:ASD8377dsfk

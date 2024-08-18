@@ -1,5 +1,0 @@
-METRICS_TOKEN — gist, project, read:org, read:user, repo, write:packages
-
-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
-
-
