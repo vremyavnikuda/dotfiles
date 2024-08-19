@@ -1,14 +1,14 @@
 
-# Установка Go версии 1.23.0 на Ubuntu
+# Установка Go  на Ubuntu
 
-Этот файл содержит инструкции по установке Go версии 1.23.0 на Ubuntu из файла `go1.23.0.linux-amd64.tar.gz`.
+Этот файл содержит инструкции по установке Go на Ubuntu из файла
 
-## Шаг 1: Загрузка файла `go1.23.0.linux-amd64.tar.gz`
+## Шаг 1: Загрузка файла
 
 Если файл ещё не загружен, вы можете загрузить его с официального сайта Go, используя команду:
 
 ```bash
-wget https://go.dev/dl/go1.23.0.linux-amd64.tar.gz
+wget https://go.dev/dl/{go_version}
 ```
 
 ## Шаг 2: Распаковка архива
@@ -16,7 +16,7 @@ wget https://go.dev/dl/go1.23.0.linux-amd64.tar.gz
 Распакуйте файл в директорию `/usr/local`, что является стандартным местом для установки Go на Linux:
 
 ```bash
-sudo tar -C /usr/local -xzf go1.23.0.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf {go_version}
 ```
 
 ## Шаг 3: Добавление Go в системный PATH
@@ -44,7 +44,7 @@ go version
 Вы должны увидеть что-то вроде:
 
 ```
-go version go1.23.0 linux/amd64
+go version {go_version} linux/amd64
 ```
 
 Теперь Go версии 1.23.0 установлен и готов к использованию на вашем Ubuntu.
