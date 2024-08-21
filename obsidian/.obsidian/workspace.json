@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/go/2.5 Строки string/2.5.1 Функции для работы со строками.md",
+                "file": "programming/go/fyne/обработки клавиши Enter.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/go/2.5 Строки string/2.5.1 Функции для работы со строками.md",
+                "file": "programming/go/fyne/обработки клавиши Enter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/go/2.5 Строки string/2.5.1 Функции для работы со строками.md",
+                "file": "programming/go/fyne/обработки клавиши Enter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/go/2.5 Строки string/2.5.1 Функции для работы со строками.md"
+                "file": "programming/go/fyne/обработки клавиши Enter.md"
               }
             }
           },
@@ -196,11 +196,15 @@
   },
   "active": "02a5c53f56d3ca3a",
   "lastOpenFiles": [
+    "linux/ubuntu/install_go_1.23.0_ubuntu.md",
+    "linux/ubuntu",
+    "programming/go/2.5 Строки string/2.5.1 Функции для работы со строками.md",
+    "programming/go/fyne/обработки клавиши Enter.md",
+    "programming/go/fyne",
     "programming/go/2.5 Строки string/2.5 Строки (string).md",
     "programming/go/2.5 Строки string/!!!Полезные функции для char.md",
     "linux/Пропатчить директорию с Go проектом.md",
     "linux/install ubuntu.md",
-    "linux/ubuntu",
     "linux/Setup Bluetooth on Arch Linux.md",
     "linux/Docker - установка arch linux.md",
     "linux/Установка golang.md",
@@ -222,16 +226,12 @@
     "programming/rust/Junior/1.База/1.1 Типы данных/1.1.2 Продвинутые типы данных.md",
     "programming/rust/Inrerest",
     "programming/rust/Junior/1.База/1.1 Типы данных/1.1.1.  Первичные типы данных Rust.md",
-    "programming/rust/fn count_sheep.md",
     "programming/rust/Junior/1.База/1.1 Типы данных",
     "programming/rust/Junior/1.База",
     "programming/rust/Junior",
-    "programming/rust/fn count_by.md",
-    "programming/rust/Строки в Rust.md",
     "programming/go/4. Преобразование типов данных",
     "programming/go/Новая папка",
     "programming/go/1 Типами данных",
-    "programming/go/!ВАЖНО",
     "Pasted image 20240619215836.png",
     "NSTU_Project(гавнопроект)/mindMap проекта.canvas",
     "NSTU_Project(гавнопроект)/map nstu project.canvas",
