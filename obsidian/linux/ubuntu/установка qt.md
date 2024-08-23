@@ -22,7 +22,6 @@ make -j$(nproc)
 sudo make install
 ```
 
-
 ```bash
 export PATH=/usr/local/Qt-6.7.2/bin:$PATH
 ```
