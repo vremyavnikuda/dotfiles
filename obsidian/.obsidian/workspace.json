@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/go/fyne/обработки клавиши Enter.md",
+                "file": "linux/ubuntu/установка qt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/go/fyne/обработки клавиши Enter.md",
+                "file": "linux/ubuntu/установка qt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/go/fyne/обработки клавиши Enter.md",
+                "file": "linux/ubuntu/установка qt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/go/fyne/обработки клавиши Enter.md"
+                "file": "linux/ubuntu/установка qt.md"
               }
             }
           },
@@ -196,10 +196,11 @@
   },
   "active": "02a5c53f56d3ca3a",
   "lastOpenFiles": [
+    "programming/go/fyne/обработки клавиши Enter.md",
+    "linux/ubuntu/установка qt.md",
     "linux/ubuntu/install_go_1.23.0_ubuntu.md",
     "linux/ubuntu",
     "programming/go/2.5 Строки string/2.5.1 Функции для работы со строками.md",
-    "programming/go/fyne/обработки клавиши Enter.md",
     "programming/go/fyne",
     "programming/go/2.5 Строки string/2.5 Строки (string).md",
     "programming/go/2.5 Строки string/!!!Полезные функции для char.md",
@@ -225,7 +226,6 @@
     "programming/rust/Inrerest/Почему не стоит использовать `as` в Rust.md",
     "programming/rust/Junior/1.База/1.1 Типы данных/1.1.2 Продвинутые типы данных.md",
     "programming/rust/Inrerest",
-    "programming/rust/Junior/1.База/1.1 Типы данных/1.1.1.  Первичные типы данных Rust.md",
     "programming/rust/Junior/1.База/1.1 Типы данных",
     "programming/rust/Junior/1.База",
     "programming/rust/Junior",
