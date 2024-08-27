@@ -138,3 +138,10 @@ hs_err_pid*
 replay_pid*
 
 *.png
+
+#Obsidian
+.obsidian
+obsidian/.obsidian
+/obsidian/.obsidian
+obsidian/.obsidian/graph.json
+obsidian/.obsidian/workspace.json
