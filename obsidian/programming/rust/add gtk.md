@@ -1,4 +1,4 @@
-#rust 
+#rust #framework 
 ```toml
 [dependencies]
 cairo = "0.0.4"

@@ -1,4 +1,4 @@
-#angular #frontend #ts #компоненты
+#angular 
 
 ```ts
 @Component({  

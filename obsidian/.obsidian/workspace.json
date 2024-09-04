@@ -14,9 +14,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/rust/add gtk.md",
+                "file": "windows/activation office.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
               }
             }
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vaadin",
+                "query": "tag:#junior",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/rust/add gtk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/rust/add gtk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "programming/rust/add gtk.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,56 +190,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02a5c53f56d3ca3a",
+  "active": "ee0a452aff6ad471",
   "lastOpenFiles": [
-    "linux/ubuntu/vpn.md",
-    "programming/rust/add gtk.md",
-    "linux/ubuntu/установка qt.md",
-    "linux/Настройка принтера Xerox Phaser 3320 Arch Linux.md",
-    "linux/Ошибка запуска.md",
-    "linux/Пропатчить директорию с Go проектом.md",
-    "linux/Распаковать в нужную папку архив.md",
-    "linux/Установка пакетов Arch Linux.md",
-    "linux/Установка golang.md",
-    "linux/Установка i3 и настройка.md",
-    "linux/Docker - установка arch linux.md",
-    "linux/install ubuntu.md",
-    "linux/Setup Bluetooth on Arch Linux.md",
-    "linux/ubuntu/install_go_1.23.0_ubuntu.md",
-    "programming/go/fyne/обработки клавиши Enter.md",
-    "linux/ubuntu",
-    "programming/go/2.5 Строки string/2.5.1 Функции для работы со строками.md",
-    "programming/go/fyne",
-    "programming/go/2.5 Строки string/2.5 Строки (string).md",
-    "programming/go/2.5 Строки string/!!!Полезные функции для char.md",
     "windows/activation office.md",
-    "windows",
-    "programming/go/1 Типами данных/7. Неявная типизация ​​.md",
+    "Исправление go current file run.md",
+    "Краткая шпаргалка по сочетаниям клавиш в IntelliJ IDEA.md",
+    "Pasted image 20240619215942.png",
+    "Pasted image 20240619215836.png",
+    "Pasted image 20240619215705.png",
+    "Снимок экрана 2024-06-19 223716.png",
+    "Снимок экрана 2024-06-19 220002.png",
+    "Снимок экрана 2024-06-19 215956.png",
+    "Снимок экрана 2024-06-19 215903.png",
+    "Снимок экрана 2024-06-19 215858.png",
+    "Снимок экрана 2024-06-19 215820.png",
+    "Снимок экрана 2024-06-19 215731.png",
+    "дискретная математика/Основы дискретной математики.md",
+    "Математический анализ/3. Множество действительных чисел.md",
+    "Математический анализ/2. Множества , Определение множества.md",
+    "Математический анализ/1. Введение.md",
+    "angular/primeng.md",
+    "angular/полезные команды Angular {version}.md",
+    "angular/Компоненты Angular.md",
+    "angular/Встраиваем компонент в кнопку.md",
+    "angular/Время когда пользователь вошёл в систему.md",
+    "angular/Автодополнение.md",
+    "programming/программирование/Функциональное программирование(ФП).md",
+    "programming/программирование/тест.md",
+    "programming/программирование/Тема №5 Символьные массивы - строки.md",
+    "programming/программирование/Тема №4 Многомерные массивы - матрицы.md",
+    "programming/программирование/Тема №3 Массивы целых чисел.md",
+    "programming/программирование/Тема №2 Операторы цикла. Операторы передачи управления.md",
+    "programming/программирование/Тема 1 Операторы описания. Условные операторы. Тернарная операция.md",
+    "programming/программирование/Сложность алгоритма.md",
+    "programming/docker/build.md",
     "programming/go/1.12 Массивы/5. Встроенные функции для работы со срезами.md",
-    "programming/go/1.12 Массивы/6. Не много о длине массива и емкости среза.md",
-    "programming/go/1.12 Массивы/7. Использование append для удаления элемента из среза.md",
-    "programming/go/1.12 Массивы/3. Срезы (слайсы, slices).md",
-    "programming/go/1.12 Массивы/2. Обращение к элементам массива. Индексы.md",
-    "programming/go/1.12 Массивы/1. Массивы.md",
+    "programming/go/2.1 Функции/4.Возвращение нескольких значений.md",
+    "programming/go/1.12 Массивы/4. Оператор среза.md",
+    "programming/rust/rust basic/Полезное",
+    "linux/ubuntu",
+    "programming/go/fyne",
+    "windows",
     "programming/rust/Inrerest",
     "programming/rust/Junior/1.База/1.1 Типы данных",
     "programming/rust/Junior/1.База",
     "programming/rust/Junior",
     "programming/go/4. Преобразование типов данных",
     "programming/go/Новая папка",
-    "programming/go/1 Типами данных",
-    "Pasted image 20240619215836.png",
     "NSTU_Project(гавнопроект)/mindMap проекта.canvas",
     "NSTU_Project(гавнопроект)/map nstu project.canvas",
-    "Pasted image 20240619215942.png",
-    "Pasted image 20240620110932.png",
-    "Pasted image 20240620111232.png",
-    "Pasted image 20240620113042.png",
-    "Снимок экрана 2024-06-20 111405.png",
-    "Снимок экрана 2024-06-20 111305.png",
-    "Снимок экрана 2024-06-19 223716.png",
-    "Pasted image 20240619215705.png",
-    "Снимок экрана 2024-06-19 220002.png",
     "MindMap.canvas",
     "Connor project/Без названия.canvas",
     "Без названия.canvas",

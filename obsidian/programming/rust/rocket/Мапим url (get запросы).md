@@ -1,4 +1,4 @@
-#rust #rocket
+#rust #framework
 
 #[get("/")] -> мапим страницу ,которая возвращает строку  ""Main Page""
 

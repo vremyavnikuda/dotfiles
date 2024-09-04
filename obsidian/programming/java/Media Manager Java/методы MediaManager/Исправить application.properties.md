@@ -1,2 +1,0 @@
-#java 
-https://vaadin.com/docs/latest/security/advanced-topics/external-configuration

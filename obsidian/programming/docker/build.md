@@ -1,4 +1,4 @@
-#docker #junior #теория 
+#docker
 ```docker
 docker build -t nstu-portal:local .
 ```

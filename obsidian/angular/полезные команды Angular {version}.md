@@ -1,4 +1,4 @@
-#angular #programming 
+#angular 
 ___
 ```ts
 ng generate component components/{название компонента}

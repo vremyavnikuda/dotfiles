@@ -1,4 +1,4 @@
-#frontend #angular 
+#angular #framework  
 установка primeng
 
 ```

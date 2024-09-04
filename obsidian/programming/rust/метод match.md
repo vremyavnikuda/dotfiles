@@ -1,4 +1,4 @@
-#rust #примерыкода #junior 
+#rust 
 работает по принципу swith case в java
 
 ```rust
