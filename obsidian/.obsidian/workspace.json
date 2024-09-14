@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/c++/offer info/тест.md",
+                "file": "linux/Настройка принтера Xerox Phaser 3320 Arch Linux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "linux/Настройка принтера Xerox Phaser 3320 Arch Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "linux/Настройка принтера Xerox Phaser 3320 Arch Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "linux/Настройка принтера Xerox Phaser 3320 Arch Linux.md"
+              }
             }
           },
           {
@@ -190,8 +194,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee0a452aff6ad471",
+  "active": "02a5c53f56d3ca3a",
   "lastOpenFiles": [
+    "programming/c++/offer info/Сложность алгоритма.md",
     "programming/c++/offer info/тест.md",
     "programming/Codind insterest.md",
     "programming/c++/offer info/Функциональное программирование(ФП).md",
@@ -201,7 +206,6 @@
     "programming/c++/offer info/Тема №2 Операторы цикла. Операторы передачи управления.md",
     "programming/c++/offer info/Тема 1 Операторы описания. Условные операторы. Тернарная операция.md",
     "programming/c++/offer info",
-    "programming/c++/offer info/Сложность алгоритма.md",
     "linux/ubuntu/vpn.md",
     "programming/c++",
     "linux/ubuntu/install_go_1.23.0_ubuntu.md",
