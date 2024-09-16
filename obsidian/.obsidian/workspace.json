@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Настройка принтера Xerox Phaser 3320 Arch Linux.md",
+                "file": "linux/backup_instructions_arch_linux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "1f93c43b845748f7",
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/Настройка принтера Xerox Phaser 3320 Arch Linux.md",
+                "file": "linux/backup_instructions_arch_linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/Настройка принтера Xerox Phaser 3320 Arch Linux.md",
+                "file": "linux/backup_instructions_arch_linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/Настройка принтера Xerox Phaser 3320 Arch Linux.md"
+                "file": "linux/backup_instructions_arch_linux.md"
               }
             }
           },
@@ -196,6 +197,7 @@
   },
   "active": "02a5c53f56d3ca3a",
   "lastOpenFiles": [
+    "linux/Настройка принтера Xerox Phaser 3320 Arch Linux.md",
     "programming/c++/offer info/Сложность алгоритма.md",
     "programming/c++/offer info/тест.md",
     "programming/Codind insterest.md",
@@ -233,7 +235,6 @@
     "angular/Время когда пользователь вошёл в систему.md",
     "angular/Автодополнение.md",
     "programming/docker/build.md",
-    "programming/go/1.12 Массивы/5. Встроенные функции для работы со срезами.md",
     "programming/rust/rust basic/Полезное",
     "linux/ubuntu",
     "programming/go/fyne",
