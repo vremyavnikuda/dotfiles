@@ -1,3 +1,5 @@
+#archlinux 
+
 ```
 sudo pacman -Syu
 ```

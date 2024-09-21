@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/backup_instructions_arch_linux.md",
+                "file": "linux/Если я хочу запустить определенный файл в ide.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "1f93c43b845748f7",
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/backup_instructions_arch_linux.md",
+                "file": "linux/Если я хочу запустить определенный файл в ide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/backup_instructions_arch_linux.md",
+                "file": "linux/Если я хочу запустить определенный файл в ide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/backup_instructions_arch_linux.md"
+                "file": "linux/Если я хочу запустить определенный файл в ide.md"
               }
             }
           },
@@ -197,7 +196,23 @@
   },
   "active": "02a5c53f56d3ca3a",
   "lastOpenFiles": [
+    "linux/Распаковать в нужную папку архив.md",
+    "linux/Если я хочу запустить определенный файл в ide.md",
+    "linux/Установка golang.md",
+    "linux/Пропатчить директорию с Go проектом.md",
+    "linux/Ошибка запуска.md",
     "linux/Настройка принтера Xerox Phaser 3320 Arch Linux.md",
+    "linux/Setup Bluetooth on Arch Linux.md",
+    "linux/install ubuntu.md",
+    "linux/backup_instructions_arch_linux.md",
+    "linux/Docker - установка arch linux.md",
+    "linux/Установка i3 и настройка.md",
+    "linux/Установка пакетов Arch Linux.md",
+    "NSTU_Project(гавнопроект)/Полезные команды Angular.md",
+    "Краткая шпаргалка по сочетаниям клавиш в IntelliJ IDEA.md",
+    "NSTU_Project(гавнопроект)/mindMap проекта.canvas",
+    "NSTU_Project(гавнопроект)/map nstu project.canvas",
+    "Исправление go current file run.md",
     "programming/c++/offer info/Сложность алгоритма.md",
     "programming/c++/offer info/тест.md",
     "programming/Codind insterest.md",
@@ -211,9 +226,6 @@
     "linux/ubuntu/vpn.md",
     "programming/c++",
     "linux/ubuntu/install_go_1.23.0_ubuntu.md",
-    "windows/activation office.md",
-    "Исправление go current file run.md",
-    "Краткая шпаргалка по сочетаниям клавиш в IntelliJ IDEA.md",
     "Pasted image 20240619215942.png",
     "Pasted image 20240619215836.png",
     "Pasted image 20240619215705.png",
@@ -224,17 +236,6 @@
     "Снимок экрана 2024-06-19 215858.png",
     "Снимок экрана 2024-06-19 215820.png",
     "Снимок экрана 2024-06-19 215731.png",
-    "дискретная математика/Основы дискретной математики.md",
-    "Математический анализ/3. Множество действительных чисел.md",
-    "Математический анализ/2. Множества , Определение множества.md",
-    "Математический анализ/1. Введение.md",
-    "angular/primeng.md",
-    "angular/полезные команды Angular {version}.md",
-    "angular/Компоненты Angular.md",
-    "angular/Встраиваем компонент в кнопку.md",
-    "angular/Время когда пользователь вошёл в систему.md",
-    "angular/Автодополнение.md",
-    "programming/docker/build.md",
     "programming/rust/rust basic/Полезное",
     "linux/ubuntu",
     "programming/go/fyne",
@@ -243,8 +244,6 @@
     "programming/rust/Junior/1.База/1.1 Типы данных",
     "programming/rust/Junior/1.База",
     "programming/rust/Junior",
-    "NSTU_Project(гавнопроект)/mindMap проекта.canvas",
-    "NSTU_Project(гавнопроект)/map nstu project.canvas",
     "MindMap.canvas",
     "Connor project/Без названия.canvas",
     "Без названия.canvas",
