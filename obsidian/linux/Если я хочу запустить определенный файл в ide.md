@@ -14,3 +14,5 @@ foreach (testsourcefile ${APP_SOURCES})
     add_executable(${testname} ${testsourcefile})
 endforeach (testsourcefile ${APP_SOURCES})
 ```
+
+[статья](https://stackoverflow.com/questions/32174686/how-to-create-compile-and-run-a-single-file-in-clion)
