@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1f93c43b845748f7",
@@ -176,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c57b7a684be880d",
+  "active": "a52d94bb46059ec6",
   "lastOpenFiles": [
     "дискретная математика/Основы дискретной математики.md",
     "programming/c++/std_string_methods.md",
