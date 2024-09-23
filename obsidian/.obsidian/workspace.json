@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/c++/std_string_methods.md",
+                "file": "programming/c++/std_vector_methods.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1f93c43b845748f7",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/c++/std_string_methods.md",
+                "file": "programming/c++/std_vector_methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/c++/std_string_methods.md",
+                "file": "programming/c++/std_vector_methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/c++/std_string_methods.md"
+                "file": "programming/c++/std_vector_methods.md"
               }
             }
           },
@@ -177,11 +176,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a52d94bb46059ec6",
+  "active": "0c57b7a684be880d",
   "lastOpenFiles": [
-    "дискретная математика/Основы дискретной математики.md",
     "programming/c++/std_string_methods.md",
+    "programming/c++/std_vector_methods.md",
+    "programming/c++/Unconfirmed 837189.~",
+    "linux/Если я хочу запустить определенный файл в ide.md",
+    "linux/Настройка принтера Xerox Phaser 3320 Arch Linux.md",
+    "linux/Ошибка запуска.md",
+    "linux/Пропатчить директорию с Go проектом.md",
     "linux/Распаковать в нужную папку архив.md",
+    "linux/Установка golang.md",
+    "linux/Установка i3 и настройка.md",
+    "linux/Установка пакетов Arch Linux.md",
+    "дискретная математика/Основы дискретной математики.md",
     "programming/c++/algorithms/Алгоритмы сортировки.md",
     "linux/ubuntu/install_go_1.23.0_ubuntu.md",
     "linux/ubuntu/vpn.md",
@@ -191,15 +199,8 @@
     "programming/c++/offer info/Тема 1 Операторы описания. Условные операторы. Тернарная операция.md",
     "linux/install ubuntu.md",
     "linux/backup_instructions_arch_linux.md",
-    "linux/Если я хочу запустить определенный файл в ide.md",
-    "linux/Установка golang.md",
-    "linux/Пропатчить директорию с Go проектом.md",
-    "linux/Ошибка запуска.md",
-    "linux/Настройка принтера Xerox Phaser 3320 Arch Linux.md",
     "linux/Setup Bluetooth on Arch Linux.md",
     "linux/Docker - установка arch linux.md",
-    "linux/Установка i3 и настройка.md",
-    "linux/Установка пакетов Arch Linux.md",
     "NSTU_Project(гавнопроект)/Полезные команды Angular.md",
     "Краткая шпаргалка по сочетаниям клавиш в IntelliJ IDEA.md",
     "NSTU_Project(гавнопроект)/mindMap проекта.canvas",
@@ -207,7 +208,6 @@
     "Исправление go current file run.md",
     "programming/c++/offer info/тест.md",
     "programming/Codind insterest.md",
-    "programming/c++/offer info/Функциональное программирование(ФП).md",
     "programming/c++/offer info",
     "programming/c++",
     "Pasted image 20240619215942.png",
@@ -226,7 +226,6 @@
     "windows",
     "programming/rust/Inrerest",
     "programming/rust/Junior/1.База/1.1 Типы данных",
-    "programming/rust/Junior/1.База",
     "MindMap.canvas",
     "Connor project/Без названия.canvas",
     "Без названия.canvas",
