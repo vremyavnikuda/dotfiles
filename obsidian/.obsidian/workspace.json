@@ -4,38 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c2346141ba9b709a",
+        "id": "c40cabca5250c594",
         "type": "tabs",
-        "dimension": 72.01201201201201,
         "children": [
           {
-            "id": "02a5c53f56d3ca3a",
+            "id": "0c57b7a684be880d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Если я хочу запустить определенный файл в ide.md",
+                "file": "programming/c++/std_string_methods.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "5d8c8a05febe810e",
-        "type": "tabs",
-        "dimension": 27.987987987987985,
-        "children": [
-          {
-            "id": "ee0a452aff6ad471",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
             }
           }
         ]
@@ -67,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#junior",
+                "query": "tag:#полезное",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 200
   },
   "right": {
     "id": "1f93c43b845748f7",
@@ -112,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/Если я хочу запустить определенный файл в ide.md",
+                "file": "programming/c++/std_string_methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/Если я хочу запустить определенный файл в ide.md",
+                "file": "programming/c++/std_string_methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/Если я хочу запустить определенный файл в ide.md"
+                "file": "programming/c++/std_string_methods.md"
               }
             }
           },
@@ -194,17 +176,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "02a5c53f56d3ca3a",
+  "active": "0c57b7a684be880d",
   "lastOpenFiles": [
+    "дискретная математика/Основы дискретной математики.md",
+    "programming/c++/std_string_methods.md",
     "linux/Распаковать в нужную папку архив.md",
+    "programming/c++/algorithms/Алгоритмы сортировки.md",
+    "linux/ubuntu/install_go_1.23.0_ubuntu.md",
+    "linux/ubuntu/vpn.md",
+    "programming/c++/offer info/Тема №2 Операторы цикла. Операторы передачи управления.md",
+    "programming/c++/offer info/Сложность алгоритма.md",
+    "programming/c++/algorithms",
+    "programming/c++/offer info/Тема 1 Операторы описания. Условные операторы. Тернарная операция.md",
+    "linux/install ubuntu.md",
+    "linux/backup_instructions_arch_linux.md",
     "linux/Если я хочу запустить определенный файл в ide.md",
     "linux/Установка golang.md",
     "linux/Пропатчить директорию с Go проектом.md",
     "linux/Ошибка запуска.md",
     "linux/Настройка принтера Xerox Phaser 3320 Arch Linux.md",
     "linux/Setup Bluetooth on Arch Linux.md",
-    "linux/install ubuntu.md",
-    "linux/backup_instructions_arch_linux.md",
     "linux/Docker - установка arch linux.md",
     "linux/Установка i3 и настройка.md",
     "linux/Установка пакетов Arch Linux.md",
@@ -213,19 +204,11 @@
     "NSTU_Project(гавнопроект)/mindMap проекта.canvas",
     "NSTU_Project(гавнопроект)/map nstu project.canvas",
     "Исправление go current file run.md",
-    "programming/c++/offer info/Сложность алгоритма.md",
     "programming/c++/offer info/тест.md",
     "programming/Codind insterest.md",
     "programming/c++/offer info/Функциональное программирование(ФП).md",
-    "programming/c++/offer info/Тема №5 Символьные массивы - строки.md",
-    "programming/c++/offer info/Тема №4 Многомерные массивы - матрицы.md",
-    "programming/c++/offer info/Тема №3 Массивы целых чисел.md",
-    "programming/c++/offer info/Тема №2 Операторы цикла. Операторы передачи управления.md",
-    "programming/c++/offer info/Тема 1 Операторы описания. Условные операторы. Тернарная операция.md",
     "programming/c++/offer info",
-    "linux/ubuntu/vpn.md",
     "programming/c++",
-    "linux/ubuntu/install_go_1.23.0_ubuntu.md",
     "Pasted image 20240619215942.png",
     "Pasted image 20240619215836.png",
     "Pasted image 20240619215705.png",
@@ -243,7 +226,6 @@
     "programming/rust/Inrerest",
     "programming/rust/Junior/1.База/1.1 Типы данных",
     "programming/rust/Junior/1.База",
-    "programming/rust/Junior",
     "MindMap.canvas",
     "Connor project/Без названия.canvas",
     "Без названия.canvas",

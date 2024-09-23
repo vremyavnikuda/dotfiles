@@ -1,4 +1,4 @@
-
+#archlinux 
 ```bush
 git clone https://github.com/Kir-Antipov/outline-cli
 cd outline-cli
