@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/c++/std_vector_methods.md",
+                "file": "programming/c++/рефы кода/std ios ate и методы seekg() tellg() и read() для чтения части файла.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/c++/std_vector_methods.md",
+                "file": "programming/c++/рефы кода/std ios ate и методы seekg() tellg() и read() для чтения части файла.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/c++/std_vector_methods.md",
+                "file": "programming/c++/рефы кода/std ios ate и методы seekg() tellg() и read() для чтения части файла.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/c++/std_vector_methods.md"
+                "file": "programming/c++/рефы кода/std ios ate и методы seekg() tellg() и read() для чтения части файла.md"
               }
             }
           },
@@ -178,8 +178,15 @@
   },
   "active": "0c57b7a684be880d",
   "lastOpenFiles": [
-    "programming/c++/std_string_methods.md",
+    "programming/c++/методы/flag.md",
+    "programming/c++/рефы кода/std ios ate и методы seekg() tellg() и read() для чтения части файла.md",
+    "programming/c++/рефы кода",
+    "programming/c++/методы/tellg() <fstream>.md",
+    "programming/c++/методы/seekg() <fstream>.md",
+    "programming/c++/методы/read() <fstream>.md",
+    "programming/c++/методы",
     "programming/c++/std_vector_methods.md",
+    "programming/c++/std_string_methods.md",
     "programming/c++/Unconfirmed 837189.~",
     "linux/Если я хочу запустить определенный файл в ide.md",
     "linux/Настройка принтера Xerox Phaser 3320 Arch Linux.md",
@@ -201,13 +208,8 @@
     "linux/backup_instructions_arch_linux.md",
     "linux/Setup Bluetooth on Arch Linux.md",
     "linux/Docker - установка arch linux.md",
-    "NSTU_Project(гавнопроект)/Полезные команды Angular.md",
-    "Краткая шпаргалка по сочетаниям клавиш в IntelliJ IDEA.md",
     "NSTU_Project(гавнопроект)/mindMap проекта.canvas",
     "NSTU_Project(гавнопроект)/map nstu project.canvas",
-    "Исправление go current file run.md",
-    "programming/c++/offer info/тест.md",
-    "programming/Codind insterest.md",
     "programming/c++/offer info",
     "programming/c++",
     "Pasted image 20240619215942.png",
@@ -224,8 +226,6 @@
     "linux/ubuntu",
     "programming/go/fyne",
     "windows",
-    "programming/rust/Inrerest",
-    "programming/rust/Junior/1.База/1.1 Типы данных",
     "MindMap.canvas",
     "Connor project/Без названия.canvas",
     "Без названия.canvas",
