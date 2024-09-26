@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/c++/рефы кода/std ios ate и методы seekg() tellg() и read() для чтения части файла.md",
+                "file": "programming/c++/std ->.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming/c++/рефы кода/std ios ate и методы seekg() tellg() и read() для чтения части файла.md",
+                "file": "programming/c++/std ->.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/c++/рефы кода/std ios ate и методы seekg() tellg() и read() для чтения части файла.md",
+                "file": "programming/c++/std ->.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/c++/рефы кода/std ios ate и методы seekg() tellg() и read() для чтения части файла.md"
+                "file": "programming/c++/std ->.md"
               }
             }
           },
@@ -179,14 +179,20 @@
   "active": "0c57b7a684be880d",
   "lastOpenFiles": [
     "programming/c++/методы/flag.md",
+    "programming/c++/std ->.md",
     "programming/c++/рефы кода/std ios ate и методы seekg() tellg() и read() для чтения части файла.md",
-    "programming/c++/рефы кода",
     "programming/c++/методы/tellg() <fstream>.md",
-    "programming/c++/методы/seekg() <fstream>.md",
     "programming/c++/методы/read() <fstream>.md",
-    "programming/c++/методы",
-    "programming/c++/std_vector_methods.md",
+    "programming/c++/методы/seekg() <fstream>.md",
+    "дискретная математика/Основы дискретной математики.md",
+    "Исправление go current file run.md",
+    "Краткая шпаргалка по сочетаниям клавиш в IntelliJ IDEA.md",
+    "алгебра/img/Снимок экрана 2023-12-06 210737.png",
+    "linux/backup_instructions_arch_linux.md",
     "programming/c++/std_string_methods.md",
+    "programming/c++/std_vector_methods.md",
+    "programming/c++/рефы кода",
+    "programming/c++/методы",
     "programming/c++/Unconfirmed 837189.~",
     "linux/Если я хочу запустить определенный файл в ide.md",
     "linux/Настройка принтера Xerox Phaser 3320 Arch Linux.md",
@@ -196,7 +202,6 @@
     "linux/Установка golang.md",
     "linux/Установка i3 и настройка.md",
     "linux/Установка пакетов Arch Linux.md",
-    "дискретная математика/Основы дискретной математики.md",
     "programming/c++/algorithms/Алгоритмы сортировки.md",
     "linux/ubuntu/install_go_1.23.0_ubuntu.md",
     "linux/ubuntu/vpn.md",
@@ -204,10 +209,6 @@
     "programming/c++/offer info/Сложность алгоритма.md",
     "programming/c++/algorithms",
     "programming/c++/offer info/Тема 1 Операторы описания. Условные операторы. Тернарная операция.md",
-    "linux/install ubuntu.md",
-    "linux/backup_instructions_arch_linux.md",
-    "linux/Setup Bluetooth on Arch Linux.md",
-    "linux/Docker - установка arch linux.md",
     "NSTU_Project(гавнопроект)/mindMap проекта.canvas",
     "NSTU_Project(гавнопроект)/map nstu project.canvas",
     "programming/c++/offer info",
@@ -221,7 +222,6 @@
     "Снимок экрана 2024-06-19 215903.png",
     "Снимок экрана 2024-06-19 215858.png",
     "Снимок экрана 2024-06-19 215820.png",
-    "Снимок экрана 2024-06-19 215731.png",
     "programming/rust/rust basic/Полезное",
     "linux/ubuntu",
     "programming/go/fyne",

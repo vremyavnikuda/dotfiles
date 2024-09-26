@@ -1,4 +1,4 @@
-
+#linux
 # Backup System to /dev/sda
 
 This is a step-by-step guide on how to create a backup of directories `/etc`, `/home`, and `/usr/local` on disk `/dev/sda`.
