@@ -8,3 +8,4 @@ There are a few particular files/directories to note in here:
 -   [nvim config](nvim)
 
 > [arch wiki](https://wiki.archlinux.org/title/Main_page)
+> [aur.chaotic](https://aur.chaotic.cx/)
