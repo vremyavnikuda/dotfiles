@@ -1,7 +1,6 @@
 #!/bin/sh
-set -e  # Останавливаем скрипт при ошибке
+set -e
 
-# Константы
 LOG_FILE="/var/log/reset-machine-id.log"
 BACKUP_DIR="/var/backups/machine-id"
 NOTIF_TITLE="Системное уведомление"
@@ -60,7 +59,6 @@ main() {
         exit 0
     fi
 
-    # Проверяем текущий machine-id
     if [ -f /etc/machine-id ]; then
         CURRENT_ID=$(cat /etc/machine-id)
         log "📊 Текущий machine-id: $CURRENT_ID"
