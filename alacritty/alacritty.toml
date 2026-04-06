@@ -1,0 +1,115 @@
+[window]
+title = "Alacritty"
+dynamic_title = true
+decorations = "Full"
+startup_mode = "Windowed"
+opacity = 0.92
+blur = true
+
+[window.padding]
+x = 0
+y = 0
+
+[window.dimensions]
+columns = 110
+lines = 30
+
+[font]
+size = 10.0
+
+[font.normal]
+# Хороший дефолт для Arch: поставь любой из этих шрифтов
+# "JetBrainsMono Nerd Font", "Cascadia Code", "Hack", "FiraCode Nerd Font"
+family = "Cascadia Code"
+style = "Regular"
+
+[font.bold]
+family = "Cascadia Code"
+style = "Bold"
+
+[font.italic]
+family = "Cascadia Code"
+style = "Italic"
+
+[font.offset]
+x = 0
+y = 0
+
+[font.glyph_offset]
+x = 0
+y = 0
+
+[cursor]
+style = { shape = "Block", blinking = "On" }
+blink_interval = 600
+unfocused_hollow = true
+
+[scrolling]
+history = 20000
+multiplier = 3
+
+[terminal.shell]
+program = "/usr/bin/fish"
+args = ["-l"]
+
+# Если у тебя bash:
+# program = "/usr/bin/bash"
+# args = ["-l"]
+
+[env]
+TERM = "xterm-256color"
+
+[selection]
+save_to_clipboard = true
+
+[mouse]
+hide_when_typing = true
+
+# Привычные шорткаты: копировать/вставить/увеличить шрифт
+[keyboard]
+
+bindings = [
+  { key = "C", mods = "Control|Shift", action = "Copy" },
+  { key = "V", mods = "Control|Shift", action = "Paste" },
+  { key = "Insert", mods = "Shift", action = "PasteSelection" },
+
+  { key = "Plus", mods = "Control", action = "IncreaseFontSize" },
+  { key = "Minus", mods = "Control", action = "DecreaseFontSize" },
+  { key = "Key0", mods = "Control", action = "ResetFontSize" },
+
+  # удобный поиск по скроллбеку
+  { key = "F", mods = "Control|Shift", action = "SearchForward" },
+
+  # выход по Ctrl+Shift+Q (опционально, можешь удалить)
+  { key = "Q", mods = "Control|Shift", action = "Quit" }
+]
+
+[colors.primary]
+background = "#0f111a"
+foreground = "#c0caf5"
+
+[colors.cursor]
+text = "#0f111a"
+cursor = "#c0caf5"
+
+[colors.normal]
+black   = "#1b1d2b"
+red     = "#f7768e"
+green   = "#9ece6a"
+yellow  = "#e0af68"
+blue    = "#7aa2f7"
+magenta = "#bb9af7"
+cyan    = "#7dcfff"
+white   = "#a9b1d6"
+
+[colors.bright]
+black   = "#414868"
+red     = "#f7768e"
+green   = "#9ece6a"
+yellow  = "#e0af68"
+blue    = "#7aa2f7"
+magenta = "#bb9af7"
+cyan    = "#7dcfff"
+white   = "#c0caf5"
+
+[terminal]

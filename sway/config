@@ -1,0 +1,102 @@
+# Sway config generated for: swaybg swayidle swaylock waybar wmenu xorg-xwayland
+# Adjust $term and $menu if you use different apps.
+
+set $mod Mod4
+set $term alacritty
+set $menu wofi --show run --conf $HOME/.config/wofi-sway/config --style $HOME/.config/wofi-sway/style.css
+
+# Xwayland
+xwayland enable
+
+# Output background (solid color to avoid missing image path)
+exec_always swaybg -c "#1b1f28"
+
+# Output layout
+output DP-1 position 0 0
+output DP-2 position 3440 0
+
+# Idle management + lock
+exec_always swayidle -w \
+  timeout 300 'swaylock -f -c 000000' \
+  timeout 600 'swaymsg "output * power off"' \
+  resume 'swaymsg "output * power on"' \
+  before-sleep 'swaylock -f -c 000000'
+
+# Waybar
+bar {
+  swaybar_command waybar
+}
+
+# Basic keybindings
+bindsym $mod+t exec $term
+bindsym $mod+d exec $menu
+bindsym $mod+q kill
+bindsym $mod+Shift+e exec "swaymsg exit"
+bindsym $mod+Shift+c reload
+bindsym $mod+Ctrl+l exec "swaylock -f -c 000000"
+
+# Focus/move
+bindsym $mod+h focus left
+bindsym $mod+j focus down
+bindsym $mod+k focus up
+bindsym $mod+l focus right
+bindsym $mod+Left focus left
+bindsym $mod+Right focus right
+
+bindsym $mod+Shift+h move left
+bindsym $mod+Shift+j move down
+bindsym $mod+Shift+k move up
+
+
+# Layout
+bindsym $mod+f fullscreen toggle
+bindsym $mod+space floating toggle
+bindsym $mod+s layout stacking
+bindsym $mod+w layout tabbed
+bindsym $mod+e layout toggle split
+
+# Workspaces
+set $ws1 "1"
+set $ws2 "2"
+set $ws3 "3"
+set $ws4 "4"
+set $ws5 "5"
+
+bindsym $mod+1 workspace $ws1
+bindsym $mod+2 workspace $ws2
+bindsym $mod+3 workspace $ws3
+bindsym $mod+4 workspace $ws4
+bindsym $mod+5 workspace $ws5
+
+bindsym $mod+Shift+1 move container to workspace $ws1
+bindsym $mod+Shift+2 move container to workspace $ws2
+bindsym $mod+Shift+3 move container to workspace $ws3
+bindsym $mod+Shift+4 move container to workspace $ws4
+bindsym $mod+Shift+5 move container to workspace $ws5
+
+
+# этот функционал только для разработчика hyprshot-rs
+bindsym $mod+Print exec $HOME/repo/hyprland/hyprshot-rs/target/release/hyprshot-rs -m window
+bindsym $mod+Shift+Print exec $HOME/repo/hyprland/hyprshot-rs/target/release/hyprshot-rs -m region
+bindsym $mod+Ctrl+Print exec $HOME/repo/hyprland/hyprshot-rs/target/release/hyprshot-rs -m output
+bindsym Print exec $HOME/repo/hyprland/hyprshot-rs/target/release/hyprshot-rs -m output -m active
+
+
+# Gaps (optional)
+gaps inner 1
+gaps outer 1
+
+# Input defaults
+input * {
+  xkb_layout us,ru
+  xkb_options grp:alt_shift_toggle
+}
+
+# Mouse/touchpad (example)
+# input type:touchpad {
+#   tap enabled
+#   natural_scroll enabled
+# }
+
+# Startup applications (add your own)
+# exec_always waybar

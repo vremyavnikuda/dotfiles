@@ -1,0 +1,8 @@
+--style=attach
+--indent=spaces=4
+--indent-switches
+--indent-preproc-block
+--pad-oper
+--pad-header
+--align-pointer=name
+--align-reference=name

@@ -1,22 +1,14 @@
-# dotfiles arch
-___
-![pic](pic_1.png)
+# .config
 
-There are a few particular files/directories to note in here:
+My configs.
 
--   [hypr config](hypr)
--   [nvim config](nvim)
-
-> [arch wiki](https://wiki.archlinux.org/title/Main_page)
-> [aur.chaotic](https://aur.chaotic.cx/)
-
-___
-### reset-machine-id.sh
-```bash
-chmod +x reset-machine-id.sh
-```
-Запусти с правами root или через sudo:
+Dependencies can be installed with `install-deps.sh`:
 
 ```bash
-sudo ./reset-machine-id.sh
+./install-deps.sh
 ```
+
+Screenshots:
+
+![Screenshot 1](img/img_1.png)
+![Screenshot 2](img/img_2.png)
