@@ -1,14 +1,14 @@
-# Оптимизация под ваш стек (Hyprland + Kitty)
+# Tuned for this setup (Hyprland + Kitty)
 [mgr]
-ratio          = [1, 2, 5]     # Больше места под правую колонку/превью
+ratio          = [1, 2, 5]     # More room for the right column/preview
 sort_by        = "natural"
 sort_sensitive = true
 sort_reverse   = false
 sort_dir_first = true
-show_hidden    = false          # Toggle через '.' в интерфейсе
+show_hidden    = false          # Toggle with '.' in the UI
 show_symlink   = true
 
-# Превью для разных типов файлов
+# Previews for different file types
 [preview]
 max_width  = 800
 max_height = 600
@@ -16,7 +16,7 @@ cache_dir  = "/tmp/yazi-cache"
 
 [opener]
 edit = [
-  { run = "alacritty -e nvim %s", block = true, for = "linux" },
+  { run = "kitty nvim %s", block = true, for = "linux" },
 ]
 open = [
   { run = "xdg-open %s", orphan = true, for = "linux" },
@@ -33,18 +33,18 @@ video = [
 
 [open]
 rules = [
-  # Текстовые файлы — в вашем редакторе
+  # Text files — open in your editor
   { mime = "text/*", use = "edit" },
 
-  # Изображения — в системном просмотрщике
+  # Images — open with the system viewer
   { mime = "image/*", use = "open" },
 
-  # PDF — в zathura
+  # PDF — open in zathura
   { url = "*.pdf", use = "pdf" },
 
-  # Видео — в mpv
+  # Video — open in mpv
   { mime = "video/*", use = "video" },
 
-  # Фолбэк — открыть через xdg-open
+  # Fallback — open via xdg-open
   { url = "*", use = "open" },
 ]

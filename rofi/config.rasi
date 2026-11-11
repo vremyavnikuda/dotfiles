@@ -1,0 +1,53 @@
+configuration {
+    modi: "drun,run,window";
+    show-icons: true;
+    font: "Hack Nerd Font 11";
+}
+
+* {
+    bg: #1e1e2e;
+    bg-alt: #313244;
+    fg: #cdd6f4;
+    accent: #b4befe;
+    border-col: #45475a;
+    background-color: @bg;
+    text-color: @fg;
+}
+
+window {
+    width: 600px;
+    border-radius: 12px;
+    padding: 12px;
+    border: 1px solid;
+    border-color: @border-col;
+}
+
+inputbar {
+    background-color: @bg-alt;
+    border-radius: 8px;
+    padding: 8px;
+    margin: 0 0 8px 0;
+    children: [ prompt, entry ];
+}
+
+prompt, entry, case-indicator {
+    text-color: @fg;
+}
+
+listview {
+    lines: 8;
+}
+
+element {
+    padding: 6px;
+    border-radius: 6px;
+}
+
+element selected {
+    background-color: @bg-alt;
+    text-color: @accent;
+}
+
+element-icon {
+    size: 24px;
+}

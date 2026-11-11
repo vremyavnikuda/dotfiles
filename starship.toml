@@ -1,0 +1,42 @@
+format = """
+$directory\
+$git_branch\
+$git_status\
+$cmd_duration\
+$c\
+$rust\
+$golang\
+$character"""
+
+[character]
+success_symbol = "[➜](green)"
+error_symbol = "[➜](red)"
+vicmd_symbol = "[➜](yellow)"
+
+[directory]
+truncation_length = 4
+style = "bold #b4befe"
+
+[git_branch]
+style = "bold #89b4fa"
+symbol = " "
+
+[git_status]
+style = "#f9e2af"
+
+[cmd_duration]
+min_time = 2000
+format = "took [$duration]($style) "
+style = "#fab387"
+
+[c]
+symbol = "C "
+style = "bold #fab387"
+
+[rust]
+symbol = "🦀 "
+style = "bold #f38ba8"
+
+[golang]
+symbol = "Go "
+style = "bold #94e2d5"

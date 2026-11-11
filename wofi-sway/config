@@ -1,8 +1,0 @@
-show=run
-prompt=Run:
-width=600
-height=300
-location=center
-allow_markup=true
-hide_scroll=true
-no_actions=true
